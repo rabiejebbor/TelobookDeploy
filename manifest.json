@@ -3,18 +3,18 @@
   "name": "Telobook: online booking.",
   "icons": [
     {
-      "src": "/TelobookDeploy/assets/icon/favicon-64x64.png",
+      "src": "/assets/icon/favicon-64x64.png",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "/TelobookDeploy/assets/icon/icon.png",
+      "src": "/assets/icon/icon.png",
       "type": "image/png",
       "sizes": "512x512",
       "purpose": "maskable"
     }
   ],
-  "start_url": "/TelobookDeploy/",
+  "start_url": "/",
   "display": "standalone",
   "theme_color": "#ffffff",
   "background_color": "#ffffff"
