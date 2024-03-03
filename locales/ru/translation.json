@@ -1,0 +1,257 @@
+{
+  "notFound": {
+    "title": "Страница не найдена",
+    "heading": "Упс! Страница не найдена.",
+    "description": "Страница, которую вы ищете, могла быть перемещена или удалена.",
+    "homeButton": "На главную"
+  },
+  "services": {
+    "title": "Услуги",
+    "addNewButton": "Добавить новую услугу",
+    "addNewServiceProvider": "Добавить нового поставщика услуг",
+    "editService": "Редактировать услугу",
+    "addNewService": "Добавить новую услугу",
+    "serviceNameLabel": "Название услуги",
+    "serviceNamePlaceholder": "Введите название услуги",
+    "descriptionLabel": "Описание",
+    "descriptionPlaceholder": "Введите описание услуги",
+    "priceLabel": "Цена",
+    "pricePlaceholder": "Введите цену",
+    "durationLabel": "Продолжительность",
+    "durationPlaceholder": "Продолжительность (в минутах)",
+    "saveButton": "Сохранить",
+    "updateButton": "Обновить",
+    "cancelButton": "Отмена",
+    "confirmRemovalHeader": "Подтверждение удаления",
+    "confirmRemovalMessage": "Вы уверены, что хотите удалить эту услугу?",
+    "confirmRemovalCancel": "Отмена",
+    "confirmRemovalYes": "Да",
+    "serviceAddedSuccess": "Услуга успешно добавлена!",
+    "serviceAddedError": "Не удалось добавить услугу. Пожалуйста, попробуйте еще раз.",
+    "serviceRemovedSuccess": "Услуга успешно удалена!",
+    "serviceRemovedError": "Не удалось удалить услугу. Пожалуйста, попробуйте еще раз.",
+    "serviceUpdatedSuccess": "Услуга успешно обновлена!",
+    "serviceUpdatedError": "Не удалось обновить услугу. Пожалуйста, попробуйте еще раз.",
+    "loadingMessage": "Пожалуйста, создайте поставщика услуг для доступа к этому представлению..."
+  },
+  "serviceProvider": {
+    "title": "Поставщик Услуг",
+    "addProviderButton": "Добавить Поставщика",
+    "maxProvidersWarning": "Вы достигли максимального количества поставщиков услуг. Пожалуйста, свяжитесь со службой поддержки.",
+    "errorCreatingService": "Ошибка при создании услуги: ",
+    "speciality": "Специальность",
+    "location": "Местоположение",
+    "contact": "Контакт",
+    "qualifications": "Квалификации",
+    "experience": "Опыт работы",
+    "years": "лет"
+  },
+  "serviceProviderModal": {
+    "editTitle": "Редактировать Поставщика Услуг",
+    "addTitle": "Добавить Поставщика Услуг",
+    "serviceNameLabel": "Название Услуги",
+    "serviceNamePlaceholder": "Введите название услуги",
+    "specialityLabel": "Специализация",
+    "specialityPlaceholder": "Введите специализацию",
+    "locationLabel": "Местоположение",
+    "locationPlaceholder": "Введите местоположение",
+    "contactLabel": "Контакт",
+    "contactPlaceholder": "Введите контактный email",
+    "qualificationsLabel": "Квалификации",
+    "qualificationsPlaceholder": "Введите квалификации, через запятую",
+    "experienceYearsLabel": "Опыт работы (лет)",
+    "experienceYearsPlaceholder": "Введите количество лет опыта",
+    "saveProviderButton": "Сохранить Поставщика",
+    "cancelButton": "Отмена"
+  },
+  "registerPage": {
+    "title": "Регистрация",
+    "emailLabel": "Электронная почта",
+    "emailPlaceholder": "Введите вашу электронную почту",
+    "nameLabel": "Имя",
+    "namePlaceholder": "Введите ваше имя",
+    "typeLabel": "Тип",
+    "typeError": "(обязательно)",
+    "typePlaceholder": "Пожалуйста, выберите опцию",
+    "typeOptionServiceProvider": "Предоставление услуг",
+    "typeOptionClient": "Поиск услуг",
+    "passwordLabel": "Пароль",
+    "passwordPlaceholder": "Введите ваш пароль",
+    "confirmPasswordLabel": "Подтверждение пароля",
+    "confirmPasswordPlaceholder": "Подтвердите ваш пароль",
+    "registerButton": "Зарегистрироваться",
+    "loginPrompt": "Уже есть аккаунт?",
+    "loginLink": "Войти здесь",
+    "userRegisteredSuccess": "Пользователь успешно зарегистрирован!",
+    "error": "Ошибка",
+    "passwordsNotMatching": "Пароли не совпадают",
+    "emailRequired": "Электронная почта обязательна",
+    "nameRequired": "Имя обязательно",
+    "passwordRequired": "Пароль обязателен"
+  },
+  "profilePage": {
+    "title": "Профиль",
+    "uploadButton": "Загрузить",
+    "userInformationHeader": "Информация о пользователе",
+    "nameLabel": "Имя",
+    "emailLabel": "Электронная почта",
+    "phoneNumberLabel": "Телефонный номер",
+    "phoneNumberPlaceholder": "Введите номер телефона",
+    "serviceProviderDetailsHeader": "Информация о поставщике услуг",
+    "workingHoursLabel": "Рабочие часы",
+    "fromLabel": "От",
+    "toLabel": "До",
+    "saveChangesButton": "Сохранить изменения",
+    "fileSizeError": "Размер файла не должен превышать 5 МБ!",
+    "compressionError": "Произошла ошибка при сжатии изображения!",
+    "userUpdatedSuccess": "Пользователь успешно обновлен!",
+    "errorPrefix": "Ошибка!"
+  },
+  "loginPage": {
+    "title": "Вход",
+    "emailLabel": "Электронная почта",
+    "emailPlaceholder": "Введите вашу электронную почту",
+    "passwordLabel": "Пароль",
+    "passwordPlaceholder": "Введите ваш пароль",
+    "loginButton": "Войти",
+    "registerPrompt": "Нет аккаунта?",
+    "registerLink": "Зарегистрируйтесь здесь",
+    "loginError": "Ошибка входа. Пожалуйста, попробуйте снова."
+  },
+  "homePageLoggedOut": {
+    "welcomeTitle": "Добро пожаловать в Telobook!",
+    "description1": "Ваша универсальная онлайн платформа для бронирования. Откройте для себя, забронируйте и управляйте всем в одном месте. Для поставщиков услуг и клиентов.",
+    "description2": "Уникальные функции: система голосования, управляемая сообществом, за желаемые функции и инструменты, функциональность на основе ИИ.",
+    "registerServiceProvider": "Зарегистрироваться как Поставщик Услуг",
+    "login": "Вход",
+    "registerClient": "Зарегистрироваться как Клиент"
+  },
+  "homePageLoggedIn": {
+    "welcomeBack": "Добро пожаловать обратно{{name}}!",
+    "upcomingBookings": "У вас {{count}} предстоящих бронирований. Что бы вы хотели сделать сегодня?",
+    "myBookings": "Мои Бронирования",
+    "myProfile": "Мой Профиль",
+    "businessAnalytics": "Бизнес Аналитика",
+    "checkNewServices": "Ознакомьтесь с новыми услугами!",
+    "services": {
+      "advancedBookingManagement": "Продвинутое Управление Бронированиями",
+      "transparentPricingDisplay": "Прозрачное Отображение Цен",
+      "qualityAssuranceStandards": "Стандарты Контроля Качества",
+      "customerAttraction": "Привлечение Клиентов через Отзывы и Социальные Сети",
+      "communityDrivenFeature": "Развитие Функций на Основе Сообщества",
+      "personalizedClientExperience": "Персонализированный Опыт Клиента",
+      "userFriendlyInterface": "Понятный Интерфейс",
+      "analyticsDashboard": "Панель Аналитики для Поставщиков Услуг",
+      "advancedBookingManagementDescription": "Сложная система, позволяющая поставщикам услуг эффективно управлять и оптимизировать свои бронирования, повышая привлекательность для клиентов и оптимизируя операции.",
+      "transparentPricingDisplayDescription": "Функция, обеспечивающая четкое и открытое отображение цен на услуги, создающая доверие и упрощающая процесс принятия решений для клиентов.",
+      "qualityAssuranceStandardsDescription": "Система для демонстрации чистоты и профессиональных квалификаций поставщиков услуг, повышающая доверие и восприятие качества среди клиентов.",
+      "customerAttractionDescription": "Инструменты для поставщиков услуг по привлечению новых клиентов через отзывы клиентов, рейтинги и возможности делиться в социальных сетях.",
+      "communityDrivenFeatureDescription": "Функция платформы, позволяющая пользователям предлагать, голосовать и отслеживать новые функции, способствуя созданию сильного, вовлеченного сообщества.",
+      "personalizedClientExperienceDescription": "Рекомендательный движок и настраиваемые фильтры для клиентов, чтобы найти услуги, соответствующие их конкретным потребностям и предпочтениям.",
+      "userFriendlyInterfaceDescription": "Интуитивно понятный и легкий в навигации интерфейс бронирования, улучшающий пользовательский опыт как для поставщиков услуг, так и для клиентов.",
+      "analyticsDashboardDescription": "Предоставляет полезную аналитику и данные о тенденциях бронирования, отзывах клиентов и популярности услуг, помогая поставщикам услуг принимать обоснованные решения."
+
+    }
+  },
+  "clientListingPage": {
+    "title": "Клиенты",
+    "searchPlaceholder": "Поиск клиентов...",
+    "clientAddedSuccess": "Клиент успешно добавлен!",
+    "clientAddFailed": "Не удалось добавить клиента. Пожалуйста, попробуйте еще раз.",
+    "clientRemovedSuccess": "Клиент успешно удален!",
+    "clientRemoveFailed": "Не удалось удалить клиента. Пожалуйста, попробуйте еще раз.",
+    "clientUpdatedSuccess": "Клиент успешно обновлен!",
+    "clientUpdateFailed": "Не удалось обновить клиента. Пожалуйста, попробуйте еще раз.",
+    "confirmRemovalHeader": "Подтверждение Удаления",
+    "confirmRemovalMessage": "Вы уверены, что хотите удалить этого клиента?",
+    "cancelButton": "Отмена",
+    "yesButton": "Да",
+    "addNewServiceProvider": "Добавить нового поставщика услуг",
+    "loadingMessage": "Пожалуйста, создайте поставщика услуг для доступа к этому представлению..."
+  },
+  "calendarOverview": {
+    "title": "Обзор Календаря",
+    "loadingMessage": "Пожалуйста, создайте поставщика услуг для доступа к этому представлению...",
+    "addNewServiceProvider": "Добавить нового поставщика услуг"
+  },
+  "monthOverview": {
+    "title": "Обзор Месяца"
+  },
+  "menu": {
+    "dashboard": "Панель управления",
+    "profile": "Профиль",
+    "serviceProvider": "Поставщик услуг",
+    "calendarOverview": "Обзор календаря",
+    "services": "Услуги",
+    "clientDashboard": "Панель клиента",
+    "signOut": "Выйти",
+    "home": "Главная",
+    "login": "Вход",
+    "register": "Регистрация",
+    "loadingMessage": "Загрузка...",
+    "bookingProviderNote": "Провайдер онлайн-бронирования"
+  },
+  "languageSwitcher": {
+    "label": "Язык",
+    "languages": {
+      "en": "English",
+      "ru": "Русский"
+    }
+  },
+  "serviceSearch": {
+    "placeholder": "Поиск услуги"
+  },
+  "serviceListItem": {
+    "price": "Цена",
+    "duration": "Продолжительность",
+    "minutes": "минут"
+  },
+  "mainLayout": {
+    "loading": "Загрузка..."
+  },
+  "clientSearch": {
+    "placeholder": "Поиск клиента"
+  },
+  "addEditClient": {
+    "form": {
+      "nameLabel": "Имя",
+      "contactInfoLabel": "Контактная информация",
+      "emailLabel": "Электронная почта",
+      "phoneNumberLabel": "Телефонный номер",
+      "notesLabel": "Заметки",
+      "statusLabel": "Статус",
+      "activeOption": "Активный",
+      "inactiveOption": "Неактивный",
+      "blacklistedOption": "В черном списке",
+      "addClientButton": "Добавить клиента",
+      "updateClientButton": "Обновить клиента",
+      "cancelButton": "Отмена"
+    },
+    "modalTitle": "Редактировать клиента",
+    "accordionTitle": "Добавить нового клиента"
+  },
+  "dayDetails": {
+    "headerTitle": "Детали за {{date}}",
+    "price": "Цена: ${{price}}",
+    "client": "Клиент: {{name}}",
+    "clientInfo": "Информация о клиенте: {{info}}",
+    "editButton": "Редактировать",
+    "deleteButton": "Удалить",
+    "addBookingButton": "Добавить бронирование",
+    "loadingMessage": "Загрузка..."
+  },
+  "addEditBookingModal": {
+    "titleAdd": "Добавить новое бронирование",
+    "titleEdit": "Редактировать бронирование",
+    "serviceName": "Название услуги",
+    "servicePrice": "Цена услуги",
+    "startTime": "Время начала",
+    "endTime": "Время окончания",
+    "saveBooking": "Сохранить бронирование",
+    "cancel": "Отмена",
+    "loading": "Загрузка...",
+    "clientSuccessfullyAdded": "Клиент успешно добавлен!",
+    "failedToAddClient": "Не удалось добавить клиента. Пожалуйста, попробуйте снова.",
+    "noServiceProviderFound": "Поставщик услуг не найден!"
+  }
+}

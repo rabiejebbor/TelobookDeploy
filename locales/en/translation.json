@@ -1,0 +1,257 @@
+{
+  "notFound": {
+    "title": "Page Not Found",
+    "heading": "Oops! Page not found.",
+    "description": "The page you're looking for might have been moved or deleted.",
+    "homeButton": "Go to Home"
+  },
+  "services": {
+    "title": "Services",
+    "addNewButton": "Add New Service",
+    "addNewServiceProvider": "Add New Service Provider",
+    "editService": "Edit Service",
+    "addNewService": "Add a New Service",
+    "serviceNameLabel": "Service Name",
+    "serviceNamePlaceholder": "Enter Service Name",
+    "descriptionLabel": "Description",
+    "descriptionPlaceholder": "Enter Service Description",
+    "priceLabel": "Price",
+    "pricePlaceholder": "Enter Price",
+    "durationLabel": "Duration",
+    "durationPlaceholder": "Duration (minutes)",
+    "saveButton": "Save",
+    "updateButton": "Update",
+    "cancelButton": "Cancel",
+    "confirmRemovalHeader": "Confirm Removal",
+    "confirmRemovalMessage": "Are you sure you want to remove this service?",
+    "confirmRemovalCancel": "Cancel",
+    "confirmRemovalYes": "Yes",
+    "serviceAddedSuccess": "Service Successfully Added!",
+    "serviceAddedError": "Failed to Add Service. Please Try Again.",
+    "serviceRemovedSuccess": "Service Successfully Removed!",
+    "serviceRemovedError": "Failed to Remove Service. Please Try Again.",
+    "serviceUpdatedSuccess": "Service Successfully Updated!",
+    "serviceUpdatedError": "Failed to Update Service. Please Try Again.",
+    "loadingMessage": "Please create a service provider to access this view..."
+  },
+  "serviceProvider": {
+    "title": "Service Provider",
+    "addProviderButton": "Add Provider",
+    "maxProvidersWarning": "You have reached the maximum number of service providers allowed. Please contact support.",
+    "errorCreatingService": "Error while creating Service: ",
+    "speciality": "Speciality",
+    "location": "Location",
+    "contact": "Contact",
+    "qualifications": "Qualifications",
+    "experience": "Experience",
+    "years": "years"
+  },
+  "serviceProviderModal": {
+    "editTitle": "Edit Service Provider",
+    "addTitle": "Add Service Provider",
+    "serviceNameLabel": "Service Name",
+    "serviceNamePlaceholder": "Enter service name",
+    "specialityLabel": "Speciality",
+    "specialityPlaceholder": "Enter speciality",
+    "locationLabel": "Location",
+    "locationPlaceholder": "Enter location",
+    "contactLabel": "Contact",
+    "contactPlaceholder": "Enter contact email",
+    "qualificationsLabel": "Qualifications",
+    "qualificationsPlaceholder": "Enter qualifications, comma-separated",
+    "experienceYearsLabel": "Years of Experience",
+    "experienceYearsPlaceholder": "Enter years of experience",
+    "saveProviderButton": "Save Provider",
+    "cancelButton": "Cancel"
+  },
+  "registerPage": {
+    "title": "Register",
+    "emailLabel": "Email",
+    "emailPlaceholder": "Enter your email",
+    "nameLabel": "Name",
+    "namePlaceholder": "Enter your name",
+    "typeLabel": "Type",
+    "typeError": "(required)",
+    "typePlaceholder": "Please select option",
+    "typeOptionServiceProvider": "Offering Services",
+    "typeOptionClient": "Seeking Services",
+    "passwordLabel": "Password",
+    "passwordPlaceholder": "Enter your password",
+    "confirmPasswordLabel": "Confirm Password",
+    "confirmPasswordPlaceholder": "Confirm your password",
+    "registerButton": "Register",
+    "loginPrompt": "Already have an account?",
+    "loginLink": "Login here",
+    "userRegisteredSuccess": "User registered successfully!",
+    "error": "Error",
+    "passwordsNotMatching": "Passwords are not matching",
+    "emailRequired": "Email is required",
+    "nameRequired": "Name is required",
+    "passwordRequired": "Password is required"
+  },
+  "profilePage": {
+    "title": "Profile",
+    "uploadButton": "Upload",
+    "userInformationHeader": "User Information",
+    "nameLabel": "Name",
+    "emailLabel": "Email",
+    "phoneNumberLabel": "Phone Number",
+    "phoneNumberPlaceholder": "Enter phone number",
+    "serviceProviderDetailsHeader": "Service Provider Details",
+    "workingHoursLabel": "Working Hours",
+    "fromLabel": "From",
+    "toLabel": "To",
+    "saveChangesButton": "Save Changes",
+    "fileSizeError": "File size should not exceed 5MB!",
+    "compressionError": "An error occurred while compressing the image!",
+    "userUpdatedSuccess": "User updated successfully!",
+    "errorPrefix": "Error!"
+  },
+  "loginPage": {
+    "title": "Login",
+    "emailLabel": "Email",
+    "emailPlaceholder": "Enter your email",
+    "passwordLabel": "Password",
+    "passwordPlaceholder": "Enter your password",
+    "loginButton": "Login",
+    "registerPrompt": "Don't have an account?",
+    "registerLink": "Register here",
+    "loginError": "Error logging in. Please try again."
+  },
+  "homePageLoggedOut": {
+    "welcomeTitle": "Welcome to Telobook!",
+    "description1": "Your one-stop online booking platform. Discover, book, and manage all in one place. For both service providers and clients.",
+    "description2": "Unique Features: Community-Driven Voting System for Desired Features and Tools, AI-powered Functionality.",
+    "registerServiceProvider": "Register as Offering Services",
+    "login": "Login",
+    "registerClient": "Register as Seeking Services"
+  },
+  "homePageLoggedIn": {
+    "welcomeBack": "Welcome back{{name}}!",
+    "upcomingBookings": "{{count}} upcoming bookings. What would you like to do today?",
+    "myBookings": "My Bookings",
+    "myProfile": "My Profile",
+    "businessAnalytics": "Business Analytics",
+    "checkNewServices": "Check out new services!",
+    "services": {
+      "advancedBookingManagement": "Advanced Booking Management",
+      "transparentPricingDisplay": "Transparent Pricing Display",
+      "qualityAssuranceStandards": "Quality Assurance Standards",
+      "customerAttraction": "Customer Attraction via Reviews and Social Media",
+      "communityDrivenFeature": "Community-Driven Feature Enhancement",
+      "personalizedClientExperience": "Personalized Client Experience",
+      "userFriendlyInterface": "User-Friendly Interface",
+      "analyticsDashboard": "Analytics Dashboard for Service Providers",
+      "advancedBookingManagementDescription": "A sophisticated system that allows service providers to manage and optimize their bookings efficiently, enhancing customer attraction and streamlining operations.",
+      "transparentPricingDisplayDescription": "Feature ensuring clear and upfront display of service prices, fostering trust and simplifying decision-making for clients.",
+      "qualityAssuranceStandardsDescription": "A system to showcase cleanliness and professional qualifications of service providers, enhancing trust and quality perception among clients.",
+      "customerAttractionDescription": "Tools for service providers to attract new customers through client reviews, ratings, and social media sharing capabilities.",
+      "communityDrivenFeatureDescription": "A platform feature allowing users to suggest, vote on, and track new features, fostering a strong, engaged community.",
+      "personalizedClientExperienceDescription": "A recommendation engine and customizable filters for clients to find services that match their specific needs and preferences.",
+      "userFriendlyInterfaceDescription": "An intuitive and easy-to-navigate booking interface, enhancing the user experience for both service providers and clients.",
+      "analyticsDashboardDescription": "Provides insightful analytics and data on booking trends, customer feedback, and service popularity to help service providers make informed decisions."
+
+    }
+  },
+  "clientListingPage": {
+    "title": "Clients",
+    "searchPlaceholder": "Search clients...",
+    "clientAddedSuccess": "Client successfully added!",
+    "clientAddFailed": "Failed to add client. Please try again.",
+    "clientRemovedSuccess": "Client successfully removed!",
+    "clientRemoveFailed": "Failed to remove client. Please try again.",
+    "clientUpdatedSuccess": "Client successfully updated!",
+    "clientUpdateFailed": "Failed to update client. Please try again.",
+    "confirmRemovalHeader": "Confirm Removal",
+    "confirmRemovalMessage": "Are you sure you want to remove this client?",
+    "cancelButton": "Cancel",
+    "yesButton": "Yes",
+    "addNewServiceProvider": "Add new Service Provider",
+    "loadingMessage": "Please create a service provider to access this view..."
+  },
+  "calendarOverview": {
+    "title": "Calendar Overview",
+    "loadingMessage": "Please create a service provider to access this view...",
+    "addNewServiceProvider": "Add new Service Provider"
+  },
+  "monthOverview": {
+    "title": "Month Overview"
+  },
+  "menu": {
+    "dashboard": "Dashboard",
+    "profile": "Profile",
+    "serviceProvider": "Service Provider",
+    "calendarOverview": "Calendar Overview",
+    "services": "Services",
+    "clientDashboard": "Client Dashboard",
+    "signOut": "Sign Out",
+    "home": "Home",
+    "login": "Login",
+    "register": "Register",
+    "loadingMessage": "Loading...",
+    "bookingProviderNote": "The online booking provider"
+  },
+  "languageSwitcher": {
+    "label": "Language",
+    "languages": {
+      "en": "English",
+      "ru": "Русский"
+    }
+  },
+  "serviceSearch": {
+    "placeholder": "Service search"
+  },
+  "serviceListItem": {
+    "price": "Price",
+    "duration": "Duration",
+    "minutes": "minutes"
+  },
+  "mainLayout": {
+    "loading": "Loading..."
+  },
+  "clientSearch": {
+    "placeholder": "Client search"
+  },
+  "addEditClient": {
+    "form": {
+      "nameLabel": "Name",
+      "contactInfoLabel": "Contact Info",
+      "emailLabel": "Email",
+      "phoneNumberLabel": "Phone Number",
+      "notesLabel": "Notes",
+      "statusLabel": "Status",
+      "activeOption": "Active",
+      "inactiveOption": "Inactive",
+      "blacklistedOption": "Blacklisted",
+      "addClientButton": "Add Client",
+      "updateClientButton": "Update Client",
+      "cancelButton": "Cancel"
+    },
+    "modalTitle": "Edit Client",
+    "accordionTitle": "Add New Client"
+  },
+  "dayDetails": {
+    "headerTitle": "Details for {{date}}",
+    "price": "Price: ${{price}}",
+    "client": "Client: {{name}}",
+    "clientInfo": "Client Info: {{info}}",
+    "editButton": "Edit",
+    "deleteButton": "Delete",
+    "addBookingButton": "Add Booking",
+    "loadingMessage": "Loading..."
+  },
+  "addEditBookingModal": {
+    "titleAdd": "Add New Booking",
+    "titleEdit": "Edit Booking",
+    "serviceName": "Service Name",
+    "servicePrice": "Service Price",
+    "startTime": "Start Time",
+    "endTime": "End Time",
+    "saveBooking": "Save Booking",
+    "cancel": "Cancel",
+    "loading": "Loading...",
+    "clientSuccessfullyAdded": "Client successfully added!",
+    "failedToAddClient": "Failed to add client. Please try again.",
+    "noServiceProviderFound": "No service provider found!"
+  }
+}
