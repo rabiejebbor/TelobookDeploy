@@ -238,7 +238,21 @@
     "editButton": "Edit",
     "deleteButton": "Delete",
     "addBookingButton": "Add Booking",
-    "loadingMessage": "Loading..."
+    "loadingMessage": "Loading...",
+    "confirmRemovalHeader": "Confirm Removal",
+    "confirmRemovalMessage": "Are you sure you want to remove this booking?",
+    "cancelButton": "Cancel",
+    "yesButton": "Yes",
+    "description": "Description: {{description}}",
+    "duration": "Duration: {{duration}} minutes",
+    "email": "Email: {{email}}",
+    "phone": "Phone: {{phoneNumber}}",
+    "notes": "Notes: {{notes}}",
+    "statusActive": "Status: Active",
+    "statusInactive": "Status: Inactive",
+    "statusBlacklisted": "Status: Blacklisted",
+    "clientTypeServiceProviderRelated": "Client Type: Service Provider Related",
+    "clientTypeUserRelated": "Client Type: User Related"
   },
   "addEditBookingModal": {
     "titleAdd": "Add New Booking",

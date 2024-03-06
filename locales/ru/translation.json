@@ -238,7 +238,21 @@
     "editButton": "Редактировать",
     "deleteButton": "Удалить",
     "addBookingButton": "Добавить бронирование",
-    "loadingMessage": "Загрузка..."
+    "loadingMessage": "Загрузка...",
+    "confirmRemovalHeader": "Подтверждение Удаления",
+    "confirmRemovalMessage": "Вы уверены, что хотите удалить эту бронь?",
+    "cancelButton": "Отмена",
+    "yesButton": "Да",
+    "description": "Описание: {{description}}",
+    "duration": "Продолжительность: {{duration}} минут",
+    "email": "Эл. адрес: {{email}}",
+    "phone": "Телефон: {{phoneNumber}}",
+    "notes": "Заметки: {{notes}}",
+    "statusActive": "Статус: Активен",
+    "statusInactive": "Статус: Неактивен",
+    "statusBlacklisted": "Статус: В чёрном списке",
+    "clientTypeServiceProviderRelated": "Тип клиента: Связанный с поставщиком услуг",
+    "clientTypeUserRelated": "Тип клиента: Связанный с пользователем"
   },
   "addEditBookingModal": {
     "titleAdd": "Добавить новое бронирование",
