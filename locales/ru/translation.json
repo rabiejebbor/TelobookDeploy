@@ -189,7 +189,8 @@
     "login": "Вход",
     "register": "Регистрация",
     "loadingMessage": "Загрузка...",
-    "bookingProviderNote": "Провайдер онлайн-бронирования"
+    "bookingProviderNote": "Провайдер онлайн-бронирования",
+    "darkMode": "Тёмный режим"
   },
   "languageSwitcher": {
     "label": "Язык",
