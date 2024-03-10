@@ -62,7 +62,10 @@
     "experienceYearsLabel": "Years of Experience",
     "experienceYearsPlaceholder": "Enter years of experience",
     "saveProviderButton": "Save Provider",
-    "cancelButton": "Cancel"
+    "cancelButton": "Cancel",
+    "workingHoursLabel": "Working Hours",
+    "fromLabel": "From",
+    "toLabel": "To"
   },
   "registerPage": {
     "title": "Register",
@@ -260,6 +263,7 @@
     "titleEdit": "Edit Booking",
     "serviceName": "Service Name",
     "servicePrice": "Service Price",
+    "serviceDuration": "Service Duration",
     "startTime": "Start Time",
     "endTime": "End Time",
     "saveBooking": "Save Booking",
@@ -267,6 +271,24 @@
     "loading": "Loading...",
     "clientSuccessfullyAdded": "Client successfully added!",
     "failedToAddClient": "Failed to add client. Please try again.",
-    "noServiceProviderFound": "No service provider found!"
+    "noServiceProviderFound": "No service provider found!",
+    "bookingModal": {
+      "slotTakenConfirmation": "This booking slot is already taken. Are you sure you want to continue?",
+      "questionConfirmation": "Are you sure you want to continue?",
+      "slotTakenHeader": "Booking Conflict"
+    },
+    "errorMessages": {
+      "dayOff": "The selected day is marked as a day off.",
+      "startTimeBeforeWorkHours": "The booking starts before working hours.",
+      "endTimeAfterWorkHours": "The booking ends after working hours.",
+      "bookingOverlap": "The booking overlaps with an existing booking or break period.",
+      "startTimeAfterEndTime": "The start time cannot be later than the end time."
+    }
+  },
+  "common": {
+    "cancelButton": "Cancel",
+    "yesButton": "Yes",
+    "noButton": "No",
+    "confirmButton": "Confirm"
   }
 }

@@ -62,7 +62,10 @@
     "experienceYearsLabel": "Опыт работы (лет)",
     "experienceYearsPlaceholder": "Введите количество лет опыта",
     "saveProviderButton": "Сохранить Поставщика",
-    "cancelButton": "Отмена"
+    "cancelButton": "Отмена",
+    "workingHoursLabel": "Рабочие часы",
+    "fromLabel": "От",
+    "toLabel": "До"
   },
   "registerPage": {
     "title": "Регистрация",
@@ -260,6 +263,7 @@
     "titleEdit": "Редактировать бронирование",
     "serviceName": "Название услуги",
     "servicePrice": "Цена услуги",
+    "serviceDuration": "Продолжительность услуги",
     "startTime": "Время начала",
     "endTime": "Время окончания",
     "saveBooking": "Сохранить бронирование",
@@ -267,6 +271,24 @@
     "loading": "Загрузка...",
     "clientSuccessfullyAdded": "Клиент успешно добавлен!",
     "failedToAddClient": "Не удалось добавить клиента. Пожалуйста, попробуйте снова.",
-    "noServiceProviderFound": "Поставщик услуг не найден!"
+    "noServiceProviderFound": "Поставщик услуг не найден!",
+    "bookingModal": {
+      "slotTakenConfirmation": "Этот временной слот уже занят. Вы уверены, что хотите продолжить?",
+      "questionConfirmation": "Вы уверены, что хотите продолжить?",
+      "slotTakenHeader": "Конфликт Бронирования"
+    },
+    "errorMessages": {
+      "dayOff": "Выбранный день помечен как выходной.",
+      "startTimeBeforeWorkHours": "Бронирование начинается до начала рабочего дня.",
+      "endTimeAfterWorkHours": "Бронирование заканчивается после окончания рабочего дня.",
+      "bookingOverlap": "Бронирование перекрывается с существующим бронированием или перерывом.",
+      "startTimeAfterEndTime": "Время начала не может быть позже времени окончания."
+    }
+  },
+  "common": {
+    "cancelButton": "Отмена",
+    "yesButton": "Да",
+    "noButton": "Нет",
+    "confirmButton": "Подтвердить"
   }
 }
