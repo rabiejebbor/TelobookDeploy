@@ -256,7 +256,12 @@
     "statusInactive": "Статус: Неактивен",
     "statusBlacklisted": "Статус: В чёрном списке",
     "clientTypeServiceProviderRelated": "Тип клиента: Связанный с поставщиком услуг",
-    "clientTypeUserRelated": "Тип клиента: Связанный с пользователем"
+    "clientTypeUserRelated": "Тип клиента: Связанный с пользователем",
+    "dayUpdatedSuccess": "Информация о дне успешно обновлена!",
+    "dayUpdatedError": "Не удалось обновить информацию о дне. Пожалуйста, попробуйте ещё раз.",
+    "isDayOffLabel": "Выходной день",
+    "breakLabel": "Перерыв",
+    "availableLabel": "Доступно"
   },
   "addEditBookingModal": {
     "titleAdd": "Добавить новое бронирование",
@@ -289,6 +294,11 @@
     "cancelButton": "Отмена",
     "yesButton": "Да",
     "noButton": "Нет",
-    "confirmButton": "Подтвердить"
+    "confirmButton": "Подтвердить",
+    "workingHoursLabel": "Рабочие часы",
+    "fromLabel": "От",
+    "toLabel": "До",
+    "settingsLabel": "Настройки",
+    "saveButton": "Сохранить"
   }
 }

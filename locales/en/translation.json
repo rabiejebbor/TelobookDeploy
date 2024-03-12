@@ -256,7 +256,12 @@
     "statusInactive": "Status: Inactive",
     "statusBlacklisted": "Status: Blacklisted",
     "clientTypeServiceProviderRelated": "Client Type: Service Provider Related",
-    "clientTypeUserRelated": "Client Type: User Related"
+    "clientTypeUserRelated": "Client Type: User Related",
+    "dayUpdatedSuccess": "Day details Successfully Updated!",
+    "dayUpdatedError": "Failed to Update day details. Please Try Again.",
+    "isDayOffLabel": "Day Off",
+    "breakLabel": "Break",
+    "availableLabel": "Available"
   },
   "addEditBookingModal": {
     "titleAdd": "Add New Booking",
@@ -289,6 +294,11 @@
     "cancelButton": "Cancel",
     "yesButton": "Yes",
     "noButton": "No",
-    "confirmButton": "Confirm"
+    "confirmButton": "Confirm",
+    "workingHoursLabel": "Working Hours",
+    "fromLabel": "From",
+    "toLabel": "To",
+    "settingsLabel": "Settings",
+    "saveButton": "Save"
   }
 }
