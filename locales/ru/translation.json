@@ -38,7 +38,8 @@
     "title": "Поставщик Услуг",
     "addProviderButton": "Добавить Поставщика",
     "maxProvidersWarning": "Вы достигли максимального количества поставщиков услуг. Пожалуйста, свяжитесь со службой поддержки.",
-    "errorCreatingService": "Ошибка при создании услуги: ",
+    "successSavingProvider": "Поставщик услуг успешно сохранен!",
+    "errorSavingProvider": "Ошибка при сохранении поставщика услуг. Пожалуйста, попробуйте еще раз.",
     "speciality": "Специальность",
     "location": "Местоположение",
     "contact": "Контакт",
@@ -62,10 +63,14 @@
     "experienceYearsLabel": "Опыт работы (лет)",
     "experienceYearsPlaceholder": "Введите количество лет опыта",
     "saveProviderButton": "Сохранить Поставщика",
-    "cancelButton": "Отмена",
     "workingHoursLabel": "Рабочие часы",
-    "fromLabel": "От",
-    "toLabel": "До"
+    "addBreak": "Добавить перерыв",
+    "workStart": "Начало работы",
+    "workEnd": "Конец работы",
+    "setAllWeekDays": "Установить рабочие часы на все дни недели",
+    "breakStart": "Начало перерыва",
+    "breakEnd": "Конец перерыва",
+    "workSchedule": "Рабочий график"
   },
   "registerPage": {
     "title": "Регистрация",
@@ -260,8 +265,13 @@
     "dayUpdatedSuccess": "Информация о дне успешно обновлена!",
     "dayUpdatedError": "Не удалось обновить информацию о дне. Пожалуйста, попробуйте ещё раз.",
     "isDayOffLabel": "Выходной день",
+    "isWorkingDayLabel": "Рабочий день",
     "breakLabel": "Перерыв",
-    "availableLabel": "Доступно"
+    "availableLabel": "Доступно",
+    "confirmReset": "Вы уверены, что хотите сбросить перерывы и рабочие часы на значения по умолчанию?",
+    "resetButtonText": "Сбросить",
+    "resetSuccess": "Настройки дня успешно сброшены на умолчания.",
+    "resetError": "Ошибка при сбросе настроек дня."
   },
   "addEditBookingModal": {
     "titleAdd": "Добавить новое бронирование",
@@ -299,6 +309,16 @@
     "fromLabel": "От",
     "toLabel": "До",
     "settingsLabel": "Настройки",
-    "saveButton": "Сохранить"
+    "saveButton": "Сохранить",
+    "confirmationTitle": "Подтверждение"
+  },
+  "daysOfWeek": {
+    "Monday": "Понедельник",
+    "Tuesday": "Вторник",
+    "Wednesday": "Среда",
+    "Thursday": "Четверг",
+    "Friday": "Пятница",
+    "Saturday": "Суббота",
+    "Sunday": "Воскресенье"
   }
 }

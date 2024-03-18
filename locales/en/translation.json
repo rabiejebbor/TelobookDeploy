@@ -38,7 +38,8 @@
     "title": "Service Provider",
     "addProviderButton": "Add Provider",
     "maxProvidersWarning": "You have reached the maximum number of service providers allowed. Please contact support.",
-    "errorCreatingService": "Error while creating Service: ",
+    "successSavingProvider": "Service provider saved successfully!",
+    "errorSavingProvider": "Error saving service provider. Please try again.",
     "speciality": "Speciality",
     "location": "Location",
     "contact": "Contact",
@@ -62,10 +63,14 @@
     "experienceYearsLabel": "Years of Experience",
     "experienceYearsPlaceholder": "Enter years of experience",
     "saveProviderButton": "Save Provider",
-    "cancelButton": "Cancel",
     "workingHoursLabel": "Working Hours",
-    "fromLabel": "From",
-    "toLabel": "To"
+    "addBreak": "Add Break",
+    "workStart": "Work Start",
+    "workEnd": "Work End",
+    "setAllWeekDays": "Set working hours to all week days",
+    "breakStart": "Break Start",
+    "breakEnd": "Break End",
+    "workSchedule": "Work schedule"
   },
   "registerPage": {
     "title": "Register",
@@ -260,8 +265,13 @@
     "dayUpdatedSuccess": "Day details Successfully Updated!",
     "dayUpdatedError": "Failed to Update day details. Please Try Again.",
     "isDayOffLabel": "Day Off",
+    "isWorkingDayLabel": "Working Day",
     "breakLabel": "Break",
-    "availableLabel": "Available"
+    "availableLabel": "Available",
+    "confirmReset": "Are you sure you want to reset breaks and working hours to default?",
+    "resetButtonText": "Reset to default",
+    "resetSuccess": "Day settings successfully reset to default.",
+    "resetError": "Error resetting day settings to default."
   },
   "addEditBookingModal": {
     "titleAdd": "Add New Booking",
@@ -299,6 +309,16 @@
     "fromLabel": "From",
     "toLabel": "To",
     "settingsLabel": "Settings",
-    "saveButton": "Save"
+    "saveButton": "Save",
+    "confirmationTitle": "Confirmation"
+  },
+  "daysOfWeek": {
+    "Monday": "Monday",
+    "Tuesday": "Tuesday",
+    "Wednesday": "Wednesday",
+    "Thursday": "Thursday",
+    "Friday": "Friday",
+    "Saturday": "Saturday",
+    "Sunday": "Sunday"
   }
 }
