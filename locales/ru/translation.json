@@ -183,7 +183,12 @@
     "addNewServiceProvider": "Добавить нового поставщика услуг"
   },
   "monthOverview": {
-    "title": "Обзор Месяца"
+    "title": "Обзор Месяца",
+    "dayOff": "Выходной",
+    "workingDay": "Рабочий день",
+    "customScheduleBreaks": "Индивидуальный график/Перерывы",
+    "hasBookings": "Дни с бронированиями",
+    "selectedDayInfo": "Информация о выбранном дне: {{dayType}} - День {{day}}"
   },
   "menu": {
     "dashboard": "Панель управления",
@@ -311,6 +316,12 @@
     "settingsLabel": "Настройки",
     "saveButton": "Сохранить",
     "confirmationTitle": "Подтверждение"
+  },
+  "commonTimeManagement": {
+    "invalidWorkHours": "Время начала работы должно быть раньше времени окончания работы.",
+    "breakOutOfHours": "Время перерыва выходит за рамки рабочего времени или начало перерыва позже времени его окончания.",
+    "pleaseCorrectErrors": "Пожалуйста, исправьте все ошибки перед сохранением.",
+    "errorHeader": "Ошибка"
   },
   "daysOfWeek": {
     "Monday": "Понедельник",

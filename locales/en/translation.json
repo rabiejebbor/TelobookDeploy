@@ -183,7 +183,12 @@
     "addNewServiceProvider": "Add new Service Provider"
   },
   "monthOverview": {
-    "title": "Month Overview"
+    "title": "Month Overview",
+    "dayOff": "Day Off",
+    "workingDay": "Working Day",
+    "customScheduleBreaks": "Custom Schedule/Breaks",
+    "hasBookings": "Days with Bookings",
+    "selectedDayInfo": "Selected Day Info: {{dayType}} - Day {{day}}"
   },
   "menu": {
     "dashboard": "Dashboard",
@@ -311,6 +316,12 @@
     "settingsLabel": "Settings",
     "saveButton": "Save",
     "confirmationTitle": "Confirmation"
+  },
+  "commonTimeManagement": {
+    "invalidWorkHours": "Work start time must be before work end time.",
+    "breakOutOfHours": "Break time is out of working hours or start is greater the end time.",
+    "pleaseCorrectErrors": "Please correct all errors before saving.",
+    "errorHeader": "Error"
   },
   "daysOfWeek": {
     "Monday": "Monday",
