@@ -32,7 +32,8 @@
     "serviceRemovedError": "Failed to Remove Service. Please Try Again.",
     "serviceUpdatedSuccess": "Service Successfully Updated!",
     "serviceUpdatedError": "Failed to Update Service. Please Try Again.",
-    "loadingMessage": "Please create a service provider to access this view..."
+    "loadingMessage": "Please create a service provider to access this view...",
+    "ignoreInOnlineBookingLabel": "Ignore in Online Booking"
   },
   "serviceProvider": {
     "title": "Service Provider",
@@ -70,7 +71,12 @@
     "setAllWeekDays": "Set working hours to all week days",
     "breakStart": "Break Start",
     "breakEnd": "Break End",
-    "workSchedule": "Work schedule"
+    "workSchedule": "Work schedule",
+    "onlineBookingSwitch": "Enable Online Booking",
+    "bookingLink": "Booking Link",
+    "clickToView": "Click to view",
+    "linkCopied": "Link copied to clipboard",
+    "workingHoursSetupLabel": "Working Hours and Availability"
   },
   "registerPage": {
     "title": "Register",
@@ -203,7 +209,8 @@
     "register": "Register",
     "loadingMessage": "Loading...",
     "bookingProviderNote": "The online booking provider",
-    "darkMode": "Dark Mode"
+    "darkMode": "Dark Mode",
+    "myBookings": "My Bookings"
   },
   "languageSwitcher": {
     "label": "Language",
@@ -276,7 +283,8 @@
     "confirmReset": "Are you sure you want to reset breaks and working hours to default?",
     "resetButtonText": "Reset to default",
     "resetSuccess": "Day settings successfully reset to default.",
-    "resetError": "Error resetting day settings to default."
+    "resetError": "Error resetting day settings to default.",
+    "onlineBooking": "Online Booking"
   },
   "addEditBookingModal": {
     "titleAdd": "Add New Booking",
@@ -305,6 +313,25 @@
       "startTimeAfterEndTime": "The start time cannot be later than the end time."
     }
   },
+  "providerBookingPage": {
+    "title": "Provider Booking",
+    "onlineBookingEnabled": "Online Booking: Enabled",
+    "onlineBookingDisabled": "Online Booking: Currently Unavailable",
+    "bookNowMessage": "Feel free to book an appointment online!",
+    "contactForBooking": "Please contact us directly to schedule an appointment.",
+    "providerNotFound": "The requested service provider was not found.",
+    "services": "Services",
+    "dateSelection": "Date Selection",
+    "selectService": "Please select a service"
+  },
+  "timeSlotSelection": {
+    "selectTimeSlot": "Select Time Slot",
+    "noAvailableSlots": "No available slots for this date.",
+    "bookingConfirmation": "Booking date at {{startTime}} on {{date}}",
+    "confirm": "Confirm",
+    "successfulBooking": "Booking successful. Your slot is confirmed!",
+    "failedBooking": "Booking failed: the slot may be unavailable or an error occurred. Please retry or contact support."
+  },
   "common": {
     "cancelButton": "Cancel",
     "yesButton": "Yes",
@@ -315,7 +342,10 @@
     "toLabel": "To",
     "settingsLabel": "Settings",
     "saveButton": "Save",
-    "confirmationTitle": "Confirmation"
+    "confirmationTitle": "Confirmation",
+    "enabled": "Enabled",
+    "disabled": "Disabled",
+    "requiredFieldError": "This field is required"
   },
   "commonTimeManagement": {
     "invalidWorkHours": "Work start time must be before work end time.",

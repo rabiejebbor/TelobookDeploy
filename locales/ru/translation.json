@@ -32,7 +32,8 @@
     "serviceRemovedError": "Не удалось удалить услугу. Пожалуйста, попробуйте еще раз.",
     "serviceUpdatedSuccess": "Услуга успешно обновлена!",
     "serviceUpdatedError": "Не удалось обновить услугу. Пожалуйста, попробуйте еще раз.",
-    "loadingMessage": "Пожалуйста, создайте поставщика услуг для доступа к этому представлению..."
+    "loadingMessage": "Пожалуйста, создайте поставщика услуг для доступа к этому представлению...",
+    "ignoreInOnlineBookingLabel": "Игнорировать при онлайн-бронировании"
   },
   "serviceProvider": {
     "title": "Поставщик Услуг",
@@ -70,7 +71,12 @@
     "setAllWeekDays": "Установить рабочие часы на все дни недели",
     "breakStart": "Начало перерыва",
     "breakEnd": "Конец перерыва",
-    "workSchedule": "Рабочий график"
+    "workSchedule": "Рабочий график",
+    "onlineBookingSwitch": "Включить онлайн-бронирование",
+    "bookingLink": "Ссылка на бронирование",
+    "clickToView": "Просмотреть",
+    "linkCopied": "Ссылка скопирована в буфер обмена",
+    "workingHoursSetupLabel": "Часы работы и доступность"
   },
   "registerPage": {
     "title": "Регистрация",
@@ -203,7 +209,8 @@
     "register": "Регистрация",
     "loadingMessage": "Загрузка...",
     "bookingProviderNote": "Провайдер онлайн-бронирования",
-    "darkMode": "Тёмный режим"
+    "darkMode": "Тёмный режим",
+    "myBookings": "Мои бронирования"
   },
   "languageSwitcher": {
     "label": "Язык",
@@ -276,7 +283,8 @@
     "confirmReset": "Вы уверены, что хотите сбросить перерывы и рабочие часы на значения по умолчанию?",
     "resetButtonText": "Сбросить",
     "resetSuccess": "Настройки дня успешно сброшены на умолчания.",
-    "resetError": "Ошибка при сбросе настроек дня."
+    "resetError": "Ошибка при сбросе настроек дня.",
+    "onlineBooking": "Онлайн бронирование"
   },
   "addEditBookingModal": {
     "titleAdd": "Добавить новое бронирование",
@@ -305,6 +313,25 @@
       "startTimeAfterEndTime": "Время начала не может быть позже времени окончания."
     }
   },
+  "providerBookingPage": {
+    "title": "Страница Бронирования Провайдера",
+    "onlineBookingEnabled": "Онлайн бронирование: Доступно",
+    "onlineBookingDisabled": "Онлайн бронирование: В настоящее время недоступно",
+    "bookNowMessage": "Вы можете забронировать время онлайн!",
+    "contactForBooking": "Пожалуйста, свяжитесь с нами напрямую, чтобы запланировать визит.",
+    "providerNotFound": "Запрашиваемый провайдер услуг не найден.",
+    "services": "Услуги",
+    "dateSelection": "Выбор даты",
+    "selectService": "Пожалуйста, выберите услугу"
+  },
+  "timeSlotSelection": {
+  "selectTimeSlot": "Выберите временной слот",
+  "noAvailableSlots": "Нет доступных слотов на эту дату.",
+  "bookingConfirmation": "Дата бронирования {{startTime}} на {{date}}",
+  "confirm": "Подтвердить",
+  "successfulBooking": "Бронирование успешно. Ваш слот подтвержден!",
+  "failedBooking": "Бронирование не удалось: интервал занят или произошла ошибка. Попробуйте ещё или свяжитесь с поддержкой."
+  },
   "common": {
     "cancelButton": "Отмена",
     "yesButton": "Да",
@@ -315,7 +342,10 @@
     "toLabel": "До",
     "settingsLabel": "Настройки",
     "saveButton": "Сохранить",
-    "confirmationTitle": "Подтверждение"
+    "confirmationTitle": "Подтверждение",
+    "enabled": "Включено",
+    "disabled": "Отключено",
+    "requiredFieldError": "Это поле обязательно для заполнения"
   },
   "commonTimeManagement": {
     "invalidWorkHours": "Время начала работы должно быть раньше времени окончания работы.",
