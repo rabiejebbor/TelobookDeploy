@@ -142,6 +142,8 @@
   },
   "homePageLoggedIn": {
     "welcomeBack": "Welcome back{{name}}!",
+    "greetingClient": "Explore our new services and manage your bookings with ease!",
+    "greetingServiceProvider": "Check your schedule and manage client appointments efficiently!",
     "upcomingBookings": "{{count}} upcoming bookings. What would you like to do today?",
     "myBookings": "My Bookings",
     "myProfile": "My Profile",
@@ -365,6 +367,11 @@
   "ContactSupport": {
     "ContactSupport": "Please contact support",
     "SupportEmail": "Email us at:",
-    "AccessIssue": "You currently do not have access to this part of the application."
+    "AccessIssue": "You currently do not have access to this part of the application.",
+    "emailSubject": "Request for Access Approval",
+    "emailBody": "Hello Support Team,\n\nI am writing to request access to the Telobook application. My user ID is {{userId}}. Please let me know what steps I need to follow.\n\nThank you,\n{{userName}}"
+  },
+  "myBookingsPage": {
+    "noBookings": "No bookings available. Please make a new booking."
   }
 }
