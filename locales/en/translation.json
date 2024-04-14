@@ -361,5 +361,10 @@
     "Friday": "Friday",
     "Saturday": "Saturday",
     "Sunday": "Sunday"
+  },
+  "ContactSupport": {
+    "ContactSupport": "Please contact support",
+    "SupportEmail": "Email us at:",
+    "AccessIssue": "You currently do not have access to this part of the application."
   }
 }
