@@ -33,7 +33,8 @@
     "serviceUpdatedSuccess": "Услуга успешно обновлена!",
     "serviceUpdatedError": "Не удалось обновить услугу. Пожалуйста, попробуйте еще раз.",
     "loadingMessage": "Пожалуйста, создайте поставщика услуг для доступа к этому представлению...",
-    "ignoreInOnlineBookingLabel": "Игнорировать при онлайн-бронировании"
+    "ignoreInOnlineBookingLabel": "Игнорировать при онлайн-бронировании",
+    "saveForLater": "Сохранить услугу"
   },
   "serviceProvider": {
     "title": "Поставщик Услуг",

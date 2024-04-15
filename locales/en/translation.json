@@ -33,7 +33,8 @@
     "serviceUpdatedSuccess": "Service Successfully Updated!",
     "serviceUpdatedError": "Failed to Update Service. Please Try Again.",
     "loadingMessage": "Please create a service provider to access this view...",
-    "ignoreInOnlineBookingLabel": "Ignore in Online Booking"
+    "ignoreInOnlineBookingLabel": "Ignore in Online Booking",
+    "saveForLater": "Save service for later"
   },
   "serviceProvider": {
     "title": "Service Provider",
