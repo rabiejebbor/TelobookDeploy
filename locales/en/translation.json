@@ -348,13 +348,15 @@
     "confirmationTitle": "Confirmation",
     "enabled": "Enabled",
     "disabled": "Disabled",
-    "requiredFieldError": "This field is required"
+    "requiredFieldError": "This field is required",
+    "noServiceProviderFound": "No service provider found"
   },
   "commonTimeManagement": {
     "invalidWorkHours": "Work start time must be before work end time.",
     "breakOutOfHours": "Break time is out of working hours or start is greater the end time.",
     "pleaseCorrectErrors": "Please correct all errors before saving.",
-    "errorHeader": "Error"
+    "errorHeader": "Error",
+    "startTimeAfterEndTime": "The start time cannot be later than the end time."
   },
   "daysOfWeek": {
     "Monday": "Monday",
@@ -374,5 +376,12 @@
   },
   "myBookingsPage": {
     "noBookings": "No bookings available. Please make a new booking."
+  },
+  "BulkEditModal": {
+    "scheduleUpdatedSuccessfully": "Schedule updated successfully!",
+    "failedToUpdateSchedule": "Failed to update schedule: ${errorMessage}",
+    "selectMultipleDaysToEdit": "Select multiple days to edit",
+    "workingDay": "Working day",
+    "theFollowingDaysWillBeUpdated": "The following days will be updated: "
   }
 }

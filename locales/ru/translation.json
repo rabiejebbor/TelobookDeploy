@@ -348,13 +348,15 @@
     "confirmationTitle": "Подтверждение",
     "enabled": "Включено",
     "disabled": "Отключено",
-    "requiredFieldError": "Это поле обязательно для заполнения"
+    "requiredFieldError": "Это поле обязательно для заполнения",
+    "noServiceProviderFound": "Поставщик услуг не найден"
   },
   "commonTimeManagement": {
     "invalidWorkHours": "Время начала работы должно быть раньше времени окончания работы.",
     "breakOutOfHours": "Время перерыва выходит за рамки рабочего времени или начало перерыва позже времени его окончания.",
     "pleaseCorrectErrors": "Пожалуйста, исправьте все ошибки перед сохранением.",
-    "errorHeader": "Ошибка"
+    "errorHeader": "Ошибка",
+    "startTimeAfterEndTime": "Время начала не может быть позже времени окончания."
   },
   "daysOfWeek": {
     "Monday": "Понедельник",
@@ -374,5 +376,12 @@
   },
   "myBookingsPage": {
     "noBookings": "Бронирований нет. Пожалуйста, сделайте новое бронирование."
+  },
+  "BulkEditModal": {
+    "scheduleUpdatedSuccessfully": "Расписание успешно обновлено!",
+    "failedToUpdateSchedule": "Не удалось обновить расписание: ${errorMessage}",
+    "selectMultipleDaysToEdit": "Выберите несколько дней для редактирования",
+    "workingDay": "Рабочий день",
+    "theFollowingDaysWillBeUpdated": "Следующие дни будут обновлены: "
   }
 }
