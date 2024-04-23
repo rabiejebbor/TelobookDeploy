@@ -197,6 +197,8 @@
     "workingDay": "Working Day",
     "customScheduleBreaks": "Custom Schedule/Breaks",
     "hasBookings": "Days with Bookings",
+    "halfBooked": "15%-90% Booked",
+    "fullyBooked": "90%-100% Booked",
     "selectedDayInfo": "Selected Day Info: {{dayType}} - Day {{day}}"
   },
   "menu": {
@@ -356,7 +358,8 @@
     "breakOutOfHours": "Break time is out of working hours or start is greater the end time.",
     "pleaseCorrectErrors": "Please correct all errors before saving.",
     "errorHeader": "Error",
-    "startTimeAfterEndTime": "The start time cannot be later than the end time."
+    "startTimeAfterEndTime": "The start time cannot be later than the end time.",
+    "dayOffWithBookings": "Not possible to close day containing bookings."
   },
   "daysOfWeek": {
     "Monday": "Monday",
