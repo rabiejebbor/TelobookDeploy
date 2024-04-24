@@ -131,7 +131,9 @@
     "loginButton": "Login",
     "registerPrompt": "Don't have an account?",
     "registerLink": "Register here",
-    "loginError": "Error logging in. Please try again."
+    "loginError": "Error logging in. Please try again.",
+    "forgotPasswordPrompt": "Forgot your password?",
+    "forgotPasswordLink": "Recover it here"
   },
   "homePageLoggedOut": {
     "welcomeTitle": "Welcome to Telobook!",
@@ -386,5 +388,15 @@
     "selectMultipleDaysToEdit": "Select multiple days to edit",
     "workingDay": "Working day",
     "theFollowingDaysWillBeUpdated": "The following days will be updated: "
+  },
+  "passwordRecoveryPage": {
+    "title": "Password Recovery",
+    "emailLabel": "Email",
+    "emailPlaceholder": "Enter your email",
+    "sendButton": "Send Reset Email",
+    "successMessage": "Password reset email sent successfully!",
+    "errorMessage": "Error sending password reset email:",
+    "checkEmailMessage": "Please check your email and spam folder for the reset link.",
+    "finalInstructions": "An email has been sent to your address. Please check your email and the spam folder for the reset link."
   }
 }

@@ -131,7 +131,9 @@
     "loginButton": "Войти",
     "registerPrompt": "Нет аккаунта?",
     "registerLink": "Зарегистрируйтесь здесь",
-    "loginError": "Ошибка входа. Пожалуйста, попробуйте снова."
+    "loginError": "Ошибка входа. Пожалуйста, попробуйте снова.",
+    "forgotPasswordPrompt": "Забыли пароль?",
+    "forgotPasswordLink": "Восстановить здесь"
   },
   "homePageLoggedOut": {
     "welcomeTitle": "Добро пожаловать в Telobook!",
@@ -386,5 +388,15 @@
     "selectMultipleDaysToEdit": "Выберите несколько дней для редактирования",
     "workingDay": "Рабочий день",
     "theFollowingDaysWillBeUpdated": "Следующие дни будут обновлены: "
+  },
+  "passwordRecoveryPage": {
+    "title": "Восстановление Пароля",
+    "emailLabel": "Электронная почта",
+    "emailPlaceholder": "Введите вашу почту",
+    "sendButton": "Отправить письмо для сброса",
+    "successMessage": "Письмо для сброса пароля успешно отправлено!",
+    "errorMessage": "Ошибка отправки письма для сброса пароля:",
+    "checkEmailMessage": "Проверьте вашу почту и папку спам для ссылки на сброс.",
+    "finalInstructions": "Письмо было отправлено на ваш адрес. Проверьте вашу почту и папку спам для ссылки на сброс."
   }
 }
