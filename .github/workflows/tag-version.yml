@@ -3,7 +3,7 @@ name: Tag Release Version
 on:
   push:
     branches:
-      - main  # or your default branch like 'master'
+      - master  # or your default branch like 'master'
 
 jobs:
   tag:
