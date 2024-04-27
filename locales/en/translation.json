@@ -398,5 +398,8 @@
     "errorMessage": "Error sending password reset email:",
     "checkEmailMessage": "Please check your email and spam folder for the reset link.",
     "finalInstructions": "An email has been sent to your address. Please check your email and the spam folder for the reset link."
+  },
+  "servicesSelection": {
+    "quickBooking": "Quick Booking"
   }
 }
