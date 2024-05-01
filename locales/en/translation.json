@@ -34,7 +34,8 @@
     "serviceUpdatedError": "Failed to Update Service. Please Try Again.",
     "loadingMessage": "Please create a service provider to access this view...",
     "ignoreInOnlineBookingLabel": "Ignore in Online Booking",
-    "saveForLater": "Save service for later"
+    "saveForLater": "Save service for later",
+    "durationRequired": "Service Duration is required"
   },
   "serviceProvider": {
     "title": "Service Provider",
@@ -233,7 +234,9 @@
   "serviceListItem": {
     "price": "Price",
     "duration": "Duration",
-    "minutes": "minutes"
+    "minutes": "minutes",
+    "hourShort": "h",
+    "minuteShort": "m"
   },
   "mainLayout": {
     "loading": "Loading..."

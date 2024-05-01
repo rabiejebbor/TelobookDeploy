@@ -34,7 +34,8 @@
     "serviceUpdatedError": "Не удалось обновить услугу. Пожалуйста, попробуйте еще раз.",
     "loadingMessage": "Пожалуйста, создайте поставщика услуг для доступа к этому представлению...",
     "ignoreInOnlineBookingLabel": "Игнорировать при онлайн-бронировании",
-    "saveForLater": "Сохранить услугу"
+    "saveForLater": "Сохранить услугу",
+    "durationRequired": "Требуется указать продолжительность услуги."
   },
   "serviceProvider": {
     "title": "Поставщик Услуг",
@@ -233,7 +234,9 @@
   "serviceListItem": {
     "price": "Цена",
     "duration": "Продолжительность",
-    "minutes": "минут"
+    "minutes": "минут",
+    "hourShort": "ч",
+    "minuteShort": "м"
   },
   "mainLayout": {
     "loading": "Загрузка..."
