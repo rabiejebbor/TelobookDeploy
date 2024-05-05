@@ -357,7 +357,8 @@
     "enabled": "Включено",
     "disabled": "Отключено",
     "requiredFieldError": "Это поле обязательно для заполнения",
-    "noServiceProviderFound": "Поставщик услуг не найден"
+    "noServiceProviderFound": "Поставщик услуг не найден",
+    "refreshFailed": "Не удалось обновить данные. Пожалуйста, попробуйте еще раз."
   },
   "commonTimeManagement": {
     "invalidWorkHours": "Время начала работы должно быть раньше времени окончания работы.",

@@ -357,7 +357,8 @@
     "enabled": "Enabled",
     "disabled": "Disabled",
     "requiredFieldError": "This field is required",
-    "noServiceProviderFound": "No service provider found"
+    "noServiceProviderFound": "No service provider found",
+    "refreshFailed": "Failed to refresh data. Please try again."
   },
   "commonTimeManagement": {
     "invalidWorkHours": "Work start time must be before work end time.",
