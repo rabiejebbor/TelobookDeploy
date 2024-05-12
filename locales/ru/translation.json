@@ -219,7 +219,8 @@
     "bookingProviderNote": "Провайдер онлайн-бронирования",
     "darkMode": "Тёмный режим",
     "myBookings": "Мои бронирования",
-    "privacyPolicy": "Политика конфиденциальности"
+    "privacyPolicy": "Политика конфиденциальности",
+    "analytics": "Аналитика"
   },
   "languageSwitcher": {
     "label": "Язык",
@@ -496,5 +497,19 @@
       "contentForAddress": "Если у вас есть какие-либо вопросы о этой Политике конфиденциальности, пожалуйста, свяжитесь с нами по электронной почте по адресу privacy@telobook.com или по почте на:",
       "address": "Telobook, Inc.\n123 Telobook Street\nГород, Штат, Почтовый индекс"
     }
+  },
+  "AnalyticsPage": {
+    "title": "Аналитика",
+    "totalEarnings": "Общий доход",
+    "servicePopularity": "Популярность услуг",
+    "clientActivity": "Активность клиентов",
+    "dailyDetails": "Ежедневные детали",
+    "date": "Дата",
+    "previousMonth": "Предыдущий месяц",
+    "nextMonth": "Следующий месяц",
+    "noDataAvailable": "Данные отсутствуют.",
+    "service": "Услуга",
+    "client": "Клиент",
+    "count": "Количество"
   }
 }

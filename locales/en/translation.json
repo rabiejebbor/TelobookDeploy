@@ -219,7 +219,8 @@
     "bookingProviderNote": "The online booking provider",
     "darkMode": "Dark Mode",
     "myBookings": "My Bookings",
-    "privacyPolicy": "Privacy Policy"
+    "privacyPolicy": "Privacy Policy",
+    "analytics": "Analytics"
   },
   "languageSwitcher": {
     "label": "Language",
@@ -496,5 +497,19 @@
       "contentForAddress": "If you have any questions about this Privacy Policy, please contact us by email at privacy@telobook.com or by post to:",
       "address": "Telobook, Inc.\n123 Telobook Street\nCity, State, Zip Code"
     }
+  },
+  "AnalyticsPage": {
+    "title": "Analytics",
+    "totalEarnings": "Total Earnings",
+    "servicePopularity": "Service Popularity",
+    "clientActivity": "Client Activity",
+    "dailyDetails": "Daily Details",
+    "date": "Date",
+    "previousMonth": "Previous Month",
+    "nextMonth": "Next Month",
+    "noDataAvailable": "No data available.",
+    "service": "Service",
+    "client": "Client",
+    "count": "Count"
   }
 }
