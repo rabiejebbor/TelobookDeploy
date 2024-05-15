@@ -296,7 +296,12 @@
     "resetButtonText": "Reset to default",
     "resetSuccess": "Day settings successfully reset to default.",
     "resetError": "Error resetting day settings to default.",
-    "onlineBooking": "Online Booking"
+    "onlineBooking": "Online Booking",
+    "bookingSaveSuccess": "The booking has been successfully saved.",
+    "bookingSaveFailure": "Failed to save the booking. Please try again later.",
+    "confirmDidNotHappen": "Do you confirm that this booking did not happen?",
+    "confirmDidHappen": "Do you confirm that this booking did happen?"
+
   },
   "addEditBookingModal": {
     "titleAdd": "Add New Booking",
