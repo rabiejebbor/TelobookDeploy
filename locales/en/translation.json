@@ -258,10 +258,15 @@
       "blacklistedOption": "Blacklisted",
       "addClientButton": "Add Client",
       "updateClientButton": "Update Client",
-      "cancelButton": "Cancel"
+      "cancelButton": "Cancel",
+      "hideClientSearchButton": "Hide Client Search",
+      "moreDetails": "More Details"
     },
     "modalTitle": "Edit Client",
     "accordionTitle": "Add New Client"
+  },
+  "messages": {
+    "changedFromTo": "{{property}} changed from {{oldValue}} to {{newValue}}"
   },
   "dayDetails": {
     "headerTitle": "Details for {{date}}",
@@ -301,7 +306,6 @@
     "bookingSaveFailure": "Failed to save the booking. Please try again later.",
     "confirmDidNotHappen": "Do you confirm that this booking did not happen?",
     "confirmDidHappen": "Do you confirm that this booking did happen?"
-
   },
   "addEditBookingModal": {
     "titleAdd": "Add New Booking",
@@ -328,7 +332,18 @@
       "endTimeAfterWorkHours": "The booking ends after working hours.",
       "bookingOverlap": "The booking overlaps with an existing booking or break period.",
       "startTimeAfterEndTime": "The start time cannot be later than the end time."
-    }
+    },
+    "durationRequired": "Duration is required.",
+    "clientDataMismatch": "Client Data Mismatch",
+    "doYouWantToCreateOrUpdate": "The entered client data and selected client are not matching. Do you want to create a new client or update the existing one?",
+    "theChangesAre": "The changes are",
+    "cancelButton": "Cancel",
+    "createNewButton": "Create New",
+    "updateExistingButton": "Update Existing",
+    "serviceInfo": "Service Info",
+    "clientInfo": "Client Info",
+    "timeLabel": "Time",
+    "noClientSelected": "No client selected. Please select a client."
   },
   "providerBookingPage": {
     "title": "Provider Booking",

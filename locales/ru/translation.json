@@ -249,8 +249,8 @@
     "form": {
       "nameLabel": "Имя",
       "contactInfoLabel": "Контактная информация",
-      "emailLabel": "Электронная почта",
-      "phoneNumberLabel": "Телефонный номер",
+      "emailLabel": "Эл. почта",
+      "phoneNumberLabel": "Номер телефона",
       "notesLabel": "Заметки",
       "statusLabel": "Статус",
       "activeOption": "Активный",
@@ -258,10 +258,15 @@
       "blacklistedOption": "В черном списке",
       "addClientButton": "Добавить клиента",
       "updateClientButton": "Обновить клиента",
-      "cancelButton": "Отмена"
+      "cancelButton": "Отмена",
+      "hideClientSearchButton": "Скрыть поиск клиента",
+      "moreDetails": "Подробнее"
     },
     "modalTitle": "Редактировать клиента",
     "accordionTitle": "Добавить нового клиента"
+  },
+  "messages": {
+    "changedFromTo": "{{property}} изменено с {{oldValue}} на {{newValue}}"
   },
   "dayDetails": {
     "headerTitle": "Детали за {{date}}",
@@ -327,7 +332,18 @@
       "endTimeAfterWorkHours": "Бронирование заканчивается после окончания рабочего дня.",
       "bookingOverlap": "Бронирование перекрывается с существующим бронированием или перерывом.",
       "startTimeAfterEndTime": "Время начала не может быть позже времени окончания."
-    }
+    },
+    "durationRequired": "Требуется длительность.",
+    "clientDataMismatch": "Несоответствие данных клиента",
+    "doYouWantToCreateOrUpdate": "Введенные данные клиента и выбранный клиент не совпадают. Вы хотите создать нового клиента или обновить существующего?",
+    "theChangesAre": "Изменения следующие",
+    "cancelButton": "Отмена",
+    "createNewButton": "Создать нового",
+    "updateExistingButton": "Обновить существующего",
+    "serviceInfo": "Информация о услуге",
+    "clientInfo": "Информация о клиенте",
+    "timeLabel": "Время",
+    "noClientSelected": "Клиент не выбран. Пожалуйста, выберите клиента."
   },
   "providerBookingPage": {
     "title": "Страница Бронирования Провайдера",
