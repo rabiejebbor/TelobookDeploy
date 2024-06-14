@@ -360,9 +360,15 @@
     "selectTimeSlot": "Select Time Slot",
     "noAvailableSlots": "No available slots for this date.",
     "bookingConfirmation": "Booking date at {{startTime}} on {{date}}",
+    "confirmBookingPrompt": "Please confirm that you want to book this slot on {{date}}, at {{startTime}}",
     "confirm": "Confirm",
     "successfulBooking": "Booking successful. Your slot is confirmed!",
-    "failedBooking": "Booking failed: the slot may be unavailable or an error occurred. Please retry or contact support."
+    "failedBooking": "Booking failed: the slot may be unavailable or an error occurred. Please retry or contact support.",
+    "verificationEmailSent": "To confirm your booking, please verify your email.",
+    "tooManyRequests": "Too many requests. Please wait a moment and try again.",
+    "contactServiceProvider": "Unable to complete booking. Please contact your service provider for assistance.",
+    "slotNotAvailable": "The selected slot is not available. Please choose a different slot.",
+    "maxBookingsExceeded": "You have reached the maximum number of bookings for this service provider. Please contact your service provider directly."
   },
   "common": {
     "cancelButton": "Cancel",
@@ -531,5 +537,25 @@
     "service": "Service",
     "client": "Client",
     "count": "Count"
+  },
+  "resendVerificationEmail": {
+    "title": "Resend Verification Email",
+    "emailSentMessage": "An email has been sent to {{email}}. If you did not receive the email, please ensure your email address is correct and click Resend.",
+    "emailLabel": "Email",
+    "resendButton": "Resend Email",
+    "successMessage": "Verification email resent successfully.",
+    "failureMessage": "Failed to resend verification email.",
+    "alreadyVerified": "Email address already verified."
+  },
+  "emailVerification": {
+    "verifyingEmail": "Verifying email...",
+    "verificationSuccess": "Your email has been verified successfully and your booking is confirmed!",
+    "goToMyBookings": "Go to My Bookings",
+    "verificationFailed": "Email verification failed",
+    "bookAnotherSlot": "Book another slot",
+    "invalidVerificationLink": "Invalid verification link.",
+    "slotUnavailable": "Slot unavailable, please select another slot.",
+    "verificationError": "Verification failed. Please try again.",
+    "generalError": "An error occurred. Please try again."
   }
 }
