@@ -202,6 +202,8 @@
     "hasBookings": "Дни с бронированиями",
     "halfBooked": "15%-90% Занято",
     "fullyBooked": "90%-100% Занято",
+    "nonWorkingDayWithBookings": "Выходной с бронированиями",
+    "pastWorkingDay": "Прошлый рабочий день",
     "selectedDayInfo": "Информация о выбранном дне: {{dayType}} - День {{day}}"
   },
   "menu": {

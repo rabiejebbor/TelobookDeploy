@@ -202,6 +202,8 @@
     "hasBookings": "Days with Bookings",
     "halfBooked": "15%-90% Booked",
     "fullyBooked": "90%-100% Booked",
+    "nonWorkingDayWithBookings": "Non-Working Day with Bookings",
+    "pastWorkingDay": "Past Working Day",
     "selectedDayInfo": "Selected Day Info: {{dayType}} - Day {{day}}"
   },
   "menu": {
