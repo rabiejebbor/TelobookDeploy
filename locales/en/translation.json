@@ -559,5 +559,9 @@
     "slotUnavailable": "Slot unavailable, please select another slot.",
     "verificationError": "Verification failed. Please try again.",
     "generalError": "An error occurred. Please try again."
+  },
+  "updateBanner": {
+    "outdated_version": "Your version is outdated. Please reload the page to update to version {{newVersion}}.",
+    "reload_button": "Reload"
   }
 }
