@@ -563,5 +563,35 @@
   "updateBanner": {
     "outdated_version": "Your version is outdated. Please reload the page to update to version {{newVersion}}.",
     "reload_button": "Reload"
+  },
+  "landingPage": {
+    "title": "Telobook",
+    "empowerYourBeautyServices": "Empower Your Beauty Services",
+    "streamlineYourBusiness": "Streamline your beauty business with Telobook's intuitive tools.",
+    "signUpFree": "Sign Up",
+    "coreFeatures": "Core Features",
+    "whatWeOffer": "What We Offer",
+    "bookingCalendar": "Booking & Calendar Management",
+    "clientManagement": "Client Management",
+    "serviceManagement": "Service Management Tools",
+    "analytics": "Analytics for Earnings & Popularity",
+    "onlineBooking": "Online Booking (Experimental)",
+    "upcomingFeatures": "Upcoming Features",
+    "whatsComingNext": "What's Coming Next",
+    "enhancedSecurity": "Enhanced Security Measures",
+    "cloudIntegration": "Seamless Cloud Integration",
+    "marketingChatTool": "AI-Driven Marketing Chat Tool",
+    "analyticsDashboard": "Advanced Analytics Dashboard",
+    "communityVoting": "Community Feature Voting",
+    "whyChooseUs": "Why Choose Us?",
+    "whyTelobook": "Why Telobook?",
+    "whyChooseTelobook": "Why Choose Telobook?",
+    "whyChooseTelobookDescription": "Telobook is designed specifically for beauty professionals. With rapid feature updates and immediate issue resolutions, we stay responsive to your needs. As a small company, we are agile and attuned to our users, ensuring that you have the best tool to succeed.",
+    "ourValues": "Our Values",
+    "whatWeStandFor": "What We Stand For",
+    "userCentricDesign": "User-Centric Design: We put the needs of beauty professionals first.",
+    "continuousImprovement": "Continuous Improvement: Regular updates and new features based on your feedback.",
+    "transparency": "Transparency: Open communication and clear policies.",
+    "allRightsReserved": "All Rights Reserved"
   }
 }
