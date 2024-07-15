@@ -307,13 +307,14 @@
     "bookingSaveSuccess": "The booking has been successfully saved.",
     "bookingSaveFailure": "Failed to save the booking. Please try again later.",
     "confirmDidNotHappen": "Do you confirm that this booking did not happen?",
-    "confirmDidHappen": "Do you confirm that this booking did happen?"
+    "confirmDidHappen": "Do you confirm that this booking did take place? If a tip was given, please enter the amount below."
   },
   "addEditBookingModal": {
     "titleAdd": "Add New Booking",
     "titleEdit": "Edit Booking",
     "serviceName": "Service Name",
     "servicePrice": "Service Price",
+    "serviceTip": "Service Tip",
     "serviceDuration": "Service Duration",
     "startTime": "Start Time",
     "endTime": "End Time",
@@ -538,7 +539,8 @@
     "noDataAvailable": "No data available.",
     "service": "Service",
     "client": "Client",
-    "count": "Count"
+    "count": "Count",
+    "countOnlyConfirmedBookings": "Count Only Confirmed Bookings"
   },
   "resendVerificationEmail": {
     "title": "Resend Verification Email",
