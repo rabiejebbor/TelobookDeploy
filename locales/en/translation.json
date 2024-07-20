@@ -192,7 +192,8 @@
   "calendarOverview": {
     "title": "Calendar Overview",
     "loadingMessage": "Please create a service provider to access this view...",
-    "addNewServiceProvider": "Add new Service Provider"
+    "addNewServiceProvider": "Add new Service Provider",
+    "openClientHistory": "Open Clients History"
   },
   "monthOverview": {
     "title": "Month Overview",
@@ -595,5 +596,19 @@
     "continuousImprovement": "Continuous Improvement: Regular updates and new features based on your feedback.",
     "transparency": "Transparency: Open communication and clear policies.",
     "allRightsReserved": "All Rights Reserved"
+  },
+  "clientHistory": {
+    "title": "Client History",
+    "overviewTitle": "Client History Overview",
+    "totalEarnings": "Total Earnings",
+    "totalBookings": "Total Bookings",
+    "mostPopularService": "Most Popular Service",
+    "totalMissedBookings": "Total Missed Bookings",
+    "totalConfirmedBookings": "Total Confirmed Bookings",
+    "totalTips": "Total Tips",
+    "averageBookingPrice": "Average Booking Price",
+    "averageTip": "Average Tip",
+    "attendance": "Attendance",
+    "noBookings":"No bookings found!"
   }
 }

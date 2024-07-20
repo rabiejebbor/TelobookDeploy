@@ -192,7 +192,8 @@
   "calendarOverview": {
     "title": "Обзор Календаря",
     "loadingMessage": "Пожалуйста, создайте поставщика услуг для доступа к этому представлению...",
-    "addNewServiceProvider": "Добавить нового поставщика услуг"
+    "addNewServiceProvider": "Добавить нового поставщика услуг",
+    "openClientHistory": "Открыть историю клиентов"
   },
   "monthOverview": {
     "title": "Обзор Месяца",
@@ -595,5 +596,19 @@
     "continuousImprovement": "Непрерывное улучшение: Регулярные обновления и новые функции на основе ваших отзывов.",
     "transparency": "Прозрачность: Открытое общение и четкие политики.",
     "allRightsReserved": "Все права защищены"
+  },
+  "clientHistory": {
+    "title": "История клиента",
+    "overviewTitle": "Обзор истории клиента",
+    "totalEarnings": "Общий доход",
+    "totalBookings": "Всего бронирований",
+    "mostPopularService": "Самая популярная услуга",
+    "totalMissedBookings": "Всего пропущенных бронирований",
+    "totalConfirmedBookings": "Всего подтвержденных бронирований",
+    "totalTips": "Общие чаевые",
+    "averageBookingPrice": "Средняя цена бронирования",
+    "averageTip": "Средняя чаевые",
+    "attendance": "Посещаемость",
+    "noBookings":"Бронирование не доступно"
   }
 }
