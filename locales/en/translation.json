@@ -308,7 +308,10 @@
     "bookingSaveSuccess": "The booking has been successfully saved.",
     "bookingSaveFailure": "Failed to save the booking. Please try again later.",
     "confirmDidNotHappen": "Do you confirm that this booking did not happen?",
-    "confirmDidHappen": "Do you confirm that this booking did take place? If a tip was given, please enter the amount below."
+    "confirmDidHappen": "Do you confirm that this booking did take place? If a tip was given, please enter the amount below.",
+    "canceled": "Canceled",
+    "confirmed": "Confirmed",
+    "pending": "Pending"
   },
   "addEditBookingModal": {
     "titleAdd": "Add New Booking",
