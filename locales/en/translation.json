@@ -311,7 +311,8 @@
     "confirmDidHappen": "Do you confirm that this booking did take place? If a tip was given, please enter the amount below.",
     "canceled": "Canceled",
     "confirmed": "Confirmed",
-    "pending": "Pending"
+    "pending": "Pending",
+    "navigateToToday": "View Day"
   },
   "addEditBookingModal": {
     "titleAdd": "Add New Booking",
@@ -544,7 +545,10 @@
     "service": "Service",
     "client": "Client",
     "count": "Count",
-    "countOnlyConfirmedBookings": "Count Only Confirmed Bookings"
+    "countOnlyConfirmedBookings": "Count Only Confirmed Bookings",
+    "tip": "Tips",
+    "goToDay": "View Day",
+    "goToMonth": "View Month"
   },
   "resendVerificationEmail": {
     "title": "Resend Verification Email",
