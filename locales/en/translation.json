@@ -78,7 +78,9 @@
     "bookingLink": "Booking Link",
     "clickToView": "Click to view",
     "linkCopied": "Link copied to clipboard",
-    "workingHoursSetupLabel": "Working Hours and Availability"
+    "workingHoursSetupLabel": "Working Hours and Availability",
+    "bookingTimeFrame": "Allowed future booking time frame (in days)",
+    "maxFutureBookingsPerClient": "Max Future Bookings Allowed per Client"
   },
   "registerPage": {
     "title": "Register",

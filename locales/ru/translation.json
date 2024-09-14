@@ -78,7 +78,9 @@
     "bookingLink": "Ссылка на бронирование",
     "clickToView": "Просмотреть",
     "linkCopied": "Ссылка скопирована в буфер обмена",
-    "workingHoursSetupLabel": "Часы работы и доступность"
+    "workingHoursSetupLabel": "Часы работы и доступность",
+    "bookingTimeFrame": "Допустимый период бронирования на будущее (в днях)",
+    "maxFutureBookingsPerClient": "Максимальное количество будущих бронирований на клиента"
   },
   "registerPage": {
     "title": "Регистрация",
