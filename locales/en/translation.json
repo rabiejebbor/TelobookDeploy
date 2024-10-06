@@ -207,7 +207,10 @@
     "fullyBooked": "90%-100% Booked",
     "nonWorkingDayWithBookings": "Non-Working Day with Bookings",
     "pastWorkingDay": "Past Working Day",
-    "selectedDayInfo": "Selected Day Info: {{dayType}} - Day {{day}}"
+    "selectedDayInfo": "Selected Day Info: {{dayType}} - Day {{day}}",
+    "lowOccupied": "1%-39% Booked",
+    "mediumOccupied": "40%-89% Booked",
+    "fullyOccupied": "90%-100% Booked"
   },
   "menu": {
     "dashboard": "Dashboard",
@@ -619,5 +622,34 @@
     "averageTip": "Average Tip",
     "attendance": "Attendance",
     "noBookings":"No bookings found!"
+  },
+  "calendar": {
+    "close": "Close",
+    "information": "Information",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "weekdays": {
+      "0": "Sun",
+      "1": "Mon",
+      "2": "Tue",
+      "3": "Wed",
+      "4": "Thu",
+      "5": "Fri",
+      "6": "Sat"
+    },
+    "months": [
+      "January",
+      "February",
+      "March",
+      "April",
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October",
+      "November",
+      "December"
+    ]
   }
 }
