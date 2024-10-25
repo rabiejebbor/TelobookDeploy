@@ -123,7 +123,10 @@
     "fileSizeError": "Размер файла не должен превышать 5 МБ!",
     "compressionError": "Произошла ошибка при сжатии изображения!",
     "userUpdatedSuccess": "Пользователь успешно обновлен!",
-    "errorPrefix": "Ошибка!"
+    "errorPrefix": "Ошибка!",
+    "notificationSettings": "Настройки уведомлений",
+    "enableNotifications": "Включить уведомления",
+    "testNotificationButton": "Тестовое уведомление"
   },
   "loginPage": {
     "title": "Вход",
@@ -575,9 +578,12 @@
     "verificationError": "Не удалось подтвердить. Пожалуйста, попробуйте снова.",
     "generalError": "Произошла ошибка. Пожалуйста, попробуйте снова."
   },
-  "updateBanner": {
+  "infoBanner": {
     "outdated_version": "Ваша версия устарела. Пожалуйста, перезагрузите страницу, чтобы обновить до версии {{newVersion}}.",
-    "reload_button": "Перезагрузить"
+    "reload_button": "Перезагрузить",
+    "notifications_disabled": "Вы не будете получать уведомления о новых бронированиях. Пожалуйста, включите уведомления в настройках.",
+    "go_to_settings_button": "Перейти к настройкам",
+    "dismiss_button": "Закрыть"
   },
   "landingPage": {
     "title": "Telobook",
@@ -623,6 +629,13 @@
     "attendance": "Посещаемость",
     "noBookings":"Бронирование не доступно"
   },
+  "notifications": {
+    "permissionDenied": "Пожалуйста, включите уведомления в настройках вашего браузера.",
+    "permissionNotGranted": "Разрешение на уведомления не было предоставлено.",
+    "errorEnabling": "Ошибка при включении уведомлений.",
+    "errorDisabling": "Ошибка при отключении уведомлений.",
+    "errorToggling": "Ошибка при переключении уведомлений."
+  },
   "calendar": {
     "close": "Закрыть",
     "information": "Информация",
@@ -651,5 +664,14 @@
       "Ноябрь",
       "Декабрь"
     ]
+  },
+  "NotificationPanel": {
+    "Title": "Уведомления",
+    "MarkAllRead": "Отметить все",
+    "All": "Все",
+    "Unseen": "Непрочитанные",
+    "Loading": "Загрузка...",
+    "New": "Новое",
+    "NoNotifications": "Нет уведомлений"
   }
 }
