@@ -359,7 +359,8 @@
     "serviceInfo": "Информация о услуге",
     "clientInfo": "Информация о клиенте",
     "timeLabel": "Время",
-    "noClientSelected": "Клиент не выбран. Пожалуйста, выберите клиента."
+    "noClientSelected": "Клиент не выбран. Пожалуйста, выберите клиента.",
+    "commentAboutProcedure": "Заметки о бронировании"
   },
   "providerBookingPage": {
     "title": "Страница Бронирования Провайдера",

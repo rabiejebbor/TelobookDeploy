@@ -359,7 +359,8 @@
     "serviceInfo": "Service Info",
     "clientInfo": "Client Info",
     "timeLabel": "Time",
-    "noClientSelected": "No client selected. Please select a client."
+    "noClientSelected": "No client selected. Please select a client.",
+    "commentAboutProcedure": "Booking Notes"
   },
   "providerBookingPage": {
     "title": "Provider Booking",
