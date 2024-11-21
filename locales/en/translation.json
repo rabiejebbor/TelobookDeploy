@@ -126,7 +126,7 @@
     "errorPrefix": "Error!",
     "notificationSettings": "Notification Settings",
     "enableNotifications": "Enable Notifications",
-    "testNotificationButton": "Test Notification"
+    "testNotificationButton": "Send Test Notification"
   },
   "loginPage": {
     "title": "Login",
@@ -402,7 +402,8 @@
     "disabled": "Disabled",
     "requiredFieldError": "This field is required",
     "noServiceProviderFound": "No service provider found",
-    "refreshFailed": "Failed to refresh data. Please try again."
+    "refreshFailed": "Failed to refresh data. Please try again.",
+    "close": "Close"
   },
   "commonTimeManagement": {
     "invalidWorkHours": "Work start time must be before work end time.",
@@ -635,7 +636,62 @@
     "permissionNotGranted": "Notifications permission was not granted.",
     "errorEnabling": "Error enabling notifications.",
     "errorDisabling": "Error disabling notifications.",
-    "errorToggling": "Error toggling notifications."
+    "errorToggling": "Error toggling notifications.",
+
+    "howToEnableSiteNotificationsTitle": "Enable Notifications at Site Level",
+    "howToEnableSiteNotificationsIntro": "To enable notifications at the site level, follow these steps:",
+    "howToEnableOnIOSTitle": "Enable Notifications on iOS",
+    "howToEnableOnIOSIntro": "Due to iOS limitations, please follow these steps:",
+
+
+
+    "siteLevelDenialMessage": "Notifications are blocked for Telobook. Please enable them in your browser's site settings.",
+    "browserLevelDenialMessage": "Notifications are disabled in your browser settings. Please enable them to receive updates.",
+    "osLevelDenialMessage": "Notifications are disabled in your device settings. Please enable them to receive updates.",
+    "showTutorial": "Show Tutorial",
+    "tutorialTitle": "How to Enable Notifications",
+    "siteLevelTutorialTitle": "Enable Notifications for Telobook",
+    "siteLevelTutorialIntro": "To enable notifications for Telobook, follow these steps:",
+    "siteLevelStep1": "1. Open your browser's settings.",
+    "siteLevelStep2": "2. Navigate to Privacy and Security > Site Settings > Notifications.",
+    "siteLevelStep3": "3. Find Telobook in the list of blocked sites and change it to Allow.",
+    "browserLevelTutorialTitle": "Enable Notifications in Your Browser",
+    "browserLevelTutorialIntro": "To enable notifications in your browser, follow these steps:",
+    "browserLevelStep1": "1. Open your browser's settings.",
+    "browserLevelStep2": "2. Navigate to Privacy and Security > Site Settings > Notifications.",
+    "browserLevelStep3": "3. Ensure that 'Sites can ask to send notifications' is enabled.",
+    "osLevelTutorialTitle": "Enable Notifications in Device Settings",
+    "osLevelTutorialIntro": "To enable notifications in your device settings, follow these steps:",
+    "osLevelStep1": "1. Open the Settings app on your device.",
+    "osLevelStep2": "2. Scroll down and select Telobook or your browser.",
+    "osLevelStep3": "3. Tap on Notifications.",
+    "osLevelStep4": "4. Toggle Allow Notifications to On.",
+    "permissionDeniedTutorial": "Notifications are blocked. Please enable them in your browser or device settings.",
+    "iOSTutorial": "Special steps are required for iOS devices to enable notifications.",
+    "generalDebuggingTitle": "General Debugging Steps",
+    "generalDebuggingIntro": "If you're still experiencing issues, try the following steps:",
+    "additionalSteps": "Additional Steps",
+    "additionalDebuggingSteps": "If the above steps didn't work, please try the following:",
+    "expandDebugging": "Show Additional Steps",
+    "collapseDebugging": "Hide Additional Steps",
+    "debuggingStep1": "- Clear your browser's cache and cookies, then try again.",
+    "debuggingStep2": "- Ensure that you're using the latest version of your browser or app.",
+    "debuggingStep3": "- Disable any extensions or plugins that might block notifications.",
+    "debuggingStep4": "- Restart your device to apply any pending updates.",
+    "iosPwaLevelDenialMessage": "To receive notifications on iOS, please add this app to your home screen.",
+    "iosSafariLevelDenialMessage": "To receive notifications on iOS, please use Safari browser.",
+    "iosPwaTutorialTitle": "Add to Home Screen on iOS",
+    "iosPwaTutorialIntro": "To add the app to your home screen, follow these steps:",
+    "iosPwaStep1": "1. Tap the Share icon at the bottom of the Safari browser.",
+    "iosPwaStep2": "2. Scroll down and select 'Add to Home Screen'.",
+    "iosPwaStep3": "3. Tap 'Add' in the top-right corner.",
+    "iosSafariTutorialTitle": "Use Safari Browser on iOS",
+    "iosSafariTutorialIntro": "To use this app and receive notifications, please open it in the Safari browser.",
+    "iosSafariStep1": "1. Copy the URL and paste it into Safari.",
+    "unsupportedLevelDenialMessage": "Notifications are not supported on your device or browser.",
+    "unsupportedTutorialTitle": "Notifications Not Supported",
+    "unsupportedTutorialIntro": "Unfortunately, your device or browser does not support notifications. Please consider using a different device or browser to receive notifications.",
+    "unsupportedStep1": "Try accessing the app on a different device or update your browser."
   },
   "calendar": {
     "close": "Close",
