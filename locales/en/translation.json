@@ -35,7 +35,14 @@
     "loadingMessage": "Please create a service provider to access this view...",
     "ignoreInOnlineBookingLabel": "Ignore in Online Booking",
     "saveForLater": "Save service for later",
-    "durationRequired": "Service Duration is required"
+    "durationRequired": "Service Duration is required",
+    "noCategory": "No Category",
+    "orderSavedSuccessfully": "Order saved successfully!",
+    "saveOrderButton": "Save Order",
+    "categoryLabel": "Category",
+    "selectCategoryPlaceholder": "Select category",
+    "addNewCategory": "Add New Category",
+    "newCategoryPlaceholder": "e.g. Pedicure, Skincare..."
   },
   "serviceProvider": {
     "title": "Service Provider",
@@ -77,8 +84,8 @@
     "bookingLink": "Booking Link",
     "clickToView": "Click to view",
     "workingHoursSetupLabel": "Working Hours and Availability",
-    "bookingTimeFrame": "Allowed future booking time frame (in days)",
-    "maxFutureBookingsPerClient": "Max Future Bookings Allowed per Client",
+    "bookingTimeFrame": "Future booking period (days)",
+    "maxFutureBookingsPerClient": "Max future bookings per client",
     "slotGenerationSettings": "Booking Slot Creation Settings",
     "basicInfoTitle": "Basic Information",
     "qualificationsExperienceTitle": "Qualifications & Experience",
@@ -87,7 +94,14 @@
     "setAllWeekDays": "Apply to All Weekdays",
     "linkCopied": "Link copied to clipboard!",
     "bookingTimeFrameHelp": "This sets how far into the future clients can book. For example, '30' means they can book up to 30 days ahead.",
-    "maxFutureBookingsHelp": "This sets how many upcoming appointments a single client can have. For example, '2' means a client can't hold more than 2 future bookings at the same time."
+    "maxFutureBookingsHelp": "This sets how many upcoming appointments a single client can have. For example, '2' means a client can't hold more than 2 future bookings at the same time.",
+    "sameDayBookingEnabled": "Allow same-day bookings",
+    "minBookingStartInHours": "Min. time before booking (hours)",
+    "minBookingStartTime": {
+      "title": "Minimum Advance Booking Time",
+      "description": "This setting allows you to specify the minimum number of hours required between the current time and the start of a booking. If a time slot is within this minimum period, it will not be shown to users.",
+      "example": "For example, if this is set to 2 hours and it is currently 10:00, users will only see booking slots starting from 12:00 onward."
+    }
   },
   "slotGeneration": {
     "fromStart": "Generate Slots from Start",
@@ -748,6 +762,12 @@
     "Unseen": "Unseen",
     "Loading": "Loading...",
     "New": "New",
-    "NoNotifications": "No notifications"
+    "NoNotifications": "No notifications",
+    "CannotNavigate": "Unable to navigate to the specified booking date.",
+    "NoBookingInfo": "No booking information is available for this notification.",
+    "Read": "Mark read",
+    "Unread": "Mark unread",
+    "Day": "View day",
+    "Close": "Close"
   }
 }
