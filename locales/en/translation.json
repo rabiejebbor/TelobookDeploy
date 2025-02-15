@@ -488,92 +488,60 @@
   "privacyPolicy": {
     "consentModal": {
       "dataConsentTitle": "Data Consent",
-      "dataConsentDescription": "We use personal data to enhance your experience. Please read and accept our",
-      "privacyPolicy": "Privacy Policy",
-      "agreeToPolicy": "I agree to the data usage policy.",
-      "consentAndContinue": "Consent and Continue"
+      "dataConsentDescription": "We use personal data to enhance your experience. Please read and accept our Privacy Policy.",
+      "fullConsent": "Full consent",
+      "partialConsent": "Essential only"
     },
-    "title": "Privacy Policy",
-    "header": "Telobook Privacy Policy",
-    "lastUpdated": "Last Updated: 29.04.2024",
-    "introduction": "Welcome to Telobook! Your privacy is important to us. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website and use our services. Please read this privacy policy carefully. If you do not agree with the terms of this privacy policy, please do not access the site or use our services.",
+    "title": "Privacy Consent Notice",
+    "header": "Telobook Privacy Consent Notice",
+    "introduction": "Welcome to Telobook. We are committed to protecting your privacy and ensuring the security of your personal data. This Privacy Consent Notice explains how and why we collect, process, and store your personal information when you use our booking platform.",
     "section1": {
-      "title": "1. Information We Collect",
-      "content": "We collect information to provide better services to all our users. The information Telobook collects, and how that information is used, depends on how you use our services and how you manage your privacy controls.",
-      "subsectionA": "a. Personal Information",
-      "subsectionAContent": "You may be asked to provide personal information anytime you are in contact with Telobook. Telobook and its affiliates may share this personal information with each other and use it consistent with this Privacy Policy. Here are some examples of the personal information we collect:",
-      "list": {
-        "contactInfo": "Contact Information: Includes your name, address, phone number, and email.",
-        "paymentData": "Payment Data: Includes necessary data to process payments and prevent fraud (Note: all payment data is stored securely by our payment processors).",
-        "healthData": "Health Data: If applicable, to provide health-related services.",
-        "technicalDetails": "Technical Details: Includes your IP address, browser type, and operating system.",
-        "usageData": "Usage Data: Includes URLs, timezone settings, and how you use our services."
-      },
-      "subsectionB": "b. Usage and Device Information",
-      "subsectionBContent": "When you visit our website or use our services, we may automatically collect information about your device and usage of our services. This includes:"
+      "title": "1. Data Controller Contact Information",
+      "content": "Telobook is the data controller responsible for your personal data. For any questions, concerns, or requests regarding your personal information or your rights under GDPR, please contact us at: privacy@telobook.com."
     },
     "section2": {
-      "title": "2. How We Use Your Information",
-      "content": "We use the information we collect in various ways, including to:",
-      "list": {
-        "provideServices": "Provide, operate, and maintain our services",
-        "improveServices": "Improve, personalize, and expand our services",
-        "understandUsage": "Understand and analyze how you use our services",
-        "developNew": "Develop new products, services, features, and functionality",
-        "processTransactions": "Process your transactions",
-        "communicate": "Send you service-related communications",
-        "preventFraud": "Find and prevent fraud"
+      "title": "2. Data We Collect",
+      "content": "We collect data in two ways: the information you provide and automatically collected data.",
+      "subsectionA": {
+        "title": "a. Data You Provide Directly",
+        "content": "This includes your email address, phone number, full name, and profession. This information is processed only when you provide it, such as during registration or booking."
+      },
+      "subsectionB": {
+        "title": "b. Automatically Collected Data",
+        "content": "We automatically collect technical and preference data to enhance our service. This includes your theme color preferences, IP address, language preference, and location data. Such data is collected through our integrated third-party services, including Datadog and OneSignal."
       }
     },
     "section3": {
-      "title": "3. How We Share Your Information",
-      "content": "We may share the information we collect in various ways, including the following:",
+      "title": "3. Purposes and Legal Bases for Processing",
+      "content": "We process your data for the following purposes:",
       "list": {
-        "vendors": "Vendors and Service Providers: We may share information with third-party vendors and service providers that provide services on our behalf.",
-        "thirdParties": "Third-Party Partners: We may share your information with our third-party partners in order to receive additional legally permissible data about you.",
-        "businessTransfers": "Business Transfers: Information may be disclosed to other trusted third-party companies in the case of a merger, acquisition, or asset sale.",
-        "lawEnforcement": "As Required by Law: We may share information to comply with applicable laws and regulations, to respond to a subpoena, search warrant, or other lawful request for information we receive, or to otherwise protect our rights."
+        "serviceDelivery": "To facilitate bookings, manage your account, and provide customer support (Legal Basis: Performance of a contract).",
+        "personalization": "To send booking confirmations, service updates, and notifications, and to personalize your experience (Legal Basis: Your explicit consent).",
+        "securityMonitoring": "To monitor system performance, enhance security, and improve our services (Legal Basis: Legitimate interests).",
+        "legalCompliance": "To comply with applicable laws and regulations (Legal Basis: Compliance with legal obligations)."
       }
     },
     "section4": {
-      "title": "4. Third-Party Services",
-      "content": "Our services may contain links to third-party websites and services. We are not responsible for the practices employed by websites or services linked to or from our Service, including the information or content contained therein."
+      "title": "4. Data Sharing and International Transfers",
+      "content": "We share your personal data only with trusted third-party providers (e.g., OneSignal and Datadog) who assist us with our services. We ensure that these third parties use your data solely for the purposes described, and that appropriate safeguards are in place if data is transferred outside the European Economic Area (EEA)."
     },
     "section5": {
-      "title": "5. Cookies and Tracking Technologies",
-      "content": "We use cookies and similar tracking technologies to track the activity on our service and hold certain information, such as session data. We use this data to enhance the performance and functionality of our services."
+      "title": "5. Data Retention",
+      "content": "Your personal data will be retained only for as long as necessary to fulfill the purposes outlined in this notice or as required by applicable laws. When no longer needed, your data will be securely deleted or anonymized."
     },
     "section6": {
-      "title": "6. Data Security",
-      "content": "We use appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure, or destruction of data. These include internal reviews of our data collection, storage, and processing practices, and security measures."
+      "title": "6. Your Rights Under GDPR",
+      "content": "You have the right to access, rectify, erase, restrict processing, obtain data portability, object to processing, and withdraw your consent at any time. To exercise these rights, please contact us at privacy@telobook.com."
     },
     "section7": {
-      "title": "7. Your Data Protection Rights Under GDPR",
-      "content": "Under this regulation, you have various rights:",
-      "list": {
-        "access": "The right to access, update or delete the information we have on you.",
-        "rectification": "The right of rectification.",
-        "object": "The right to object.",
-        "restriction": "The right of restriction.",
-        "dataPortability": "The right to data portability",
-        "withdrawConsent": "The right to withdraw consent"
-      },
-      "note": "Please note that we may ask you to verify your identity before responding to such requests."
+      "title": "7. Consent and Withdrawal",
+      "content": "By clicking one of the consent buttons or continuing to use Telobook, you confirm that you have read and understood this Privacy Consent Notice and consent to the collection and processing of your personal data as described. You may withdraw your consent at any time by contacting us, though this may affect your ability to use certain features of our platform."
     },
     "section8": {
-      "title": "8. Children's Privacy",
-      "content": "Our Service does not address anyone under the age of 16. We do not knowingly collect personally identifiable information from anyone under the age of 16."
+      "title": "8. Updates and Future Notifications",
+      "content": "We may update this Privacy Consent Notice from time to time. In the event of significant changes, this popup may reappear to notify you of the updates. Please review this notice regularly to stay informed about how we protect your personal data."
     },
-    "section9": {
-      "title": "9. Changes to This Privacy Policy",
-      "content": "We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page."
-    },
-    "section10": {
-      "title": "10. Contact Us",
-      "content": "If you have any questions about this Privacy Policy, please contact us by email at privacy@telobook.com.",
-      "contentForAddress": "If you have any questions about this Privacy Policy, please contact us by email at privacy@telobook.com or by post to:",
-      "address": "Telobook, Inc.\n123 Telobook Street\nCity, State, Zip Code"
-    }
+    "lastUpdated": "Last Updated: 10.02.2025"
   },
   "AnalyticsPage": {
     "title": "Analytics",
@@ -769,5 +737,8 @@
     "Unread": "Mark unread",
     "Day": "View day",
     "Close": "Close"
-  }
+  },
+  "errorTitle": "An error occurred",
+  "errorMessage": "The error was reported. Please reload the page and verify that your latest changes were saved.",
+  "reloadButton": "Reload Page"
 }
