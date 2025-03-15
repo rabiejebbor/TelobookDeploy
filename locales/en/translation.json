@@ -225,7 +225,17 @@
     "cancelButton": "Cancel",
     "yesButton": "Yes",
     "addNewServiceProvider": "Add new Service Provider",
-    "loadingMessage": "Please create a service provider to access this view..."
+    "loadingMessage": "Please create a service provider to access this view...",
+    "mergeMaxTwo": "You can only select 2 clients to merge at a time!",
+    "mergeSuccess": "Clients merged successfully.",
+    "mergeFailed": "Merging clients failed. Please try again later.",
+    "enterMergeMode": "Merge Clients",
+    "cancelMergeMode": "Cancel",
+    "mergeClientsModalTitle": "Merge Clients",
+    "confirmMerge": "Confirm"
+  },
+  "clientItem": {
+    "onlineBooking": "Online Booking"
   },
   "calendarOverview": {
     "title": "Calendar Overview",
@@ -630,7 +640,8 @@
     "averageBookingPrice": "Average Booking Price",
     "averageTip": "Average Tip",
     "attendance": "Attendance",
-    "noBookings":"No bookings found!"
+    "noBookings":"No bookings found!",
+    "countOnlyConfirmedBookings": "Count Only Confirmed Bookings"
   },
   "notifications": {
     "permissionDenied": "Please enable notifications in your browser settings.",
@@ -737,6 +748,12 @@
     "Unread": "Mark unread",
     "Day": "View day",
     "Close": "Close"
+  },
+  "mergeConflictFields": {
+    "keepLabel": "Keep",
+    "customLabel": "Custom",
+    "emptyLabel": "empty",
+    "customNotesPlaceholder": "Enter custom notes..."
   },
   "errorTitle": "An error occurred",
   "errorMessage": "The error was reported. Please reload the page and verify that your latest changes were saved.",
