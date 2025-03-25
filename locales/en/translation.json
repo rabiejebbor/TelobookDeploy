@@ -96,6 +96,7 @@
     "bookingTimeFrameHelp": "This sets how far into the future clients can book. For example, '30' means they can book up to 30 days ahead.",
     "maxFutureBookingsHelp": "This sets how many upcoming appointments a single client can have. For example, '2' means a client can't hold more than 2 future bookings at the same time.",
     "sameDayBookingEnabled": "Allow same-day bookings",
+    "clientEmailVerificationEnabled": "Verify client email at booking",
     "minBookingStartInHours": "Min. time before booking (hours)",
     "minBookingStartTime": {
       "title": "Minimum Advance Booking Time",
@@ -754,6 +755,30 @@
     "customLabel": "Custom",
     "emptyLabel": "empty",
     "customNotesPlaceholder": "Enter custom notes..."
+  },
+  "booking": {
+    "addToGoogleCalendar": "Add to Google Calendar",
+    "addToCalendar": "Save to Calendar App",
+    "eventTitle": "{{service}} appointment",
+    "eventDescription": "Scheduled with {{provider}}"
+  },
+  "error": {
+    "usernameTaken": "This email is already registered. Try logging in instead.",
+    "emailTaken": "This email is already in use. You might want to log in instead.",
+    "invalidEmail": "The email address you entered is invalid.",
+    "passwordMissing": "Password is required.",
+    "signupFailed": "Signup failed. Please try again.",
+    "unexpected": "An unexpected error occurred. Please contact support.",
+
+    "invalidCredentials": "Incorrect email or password.",
+    "sessionExpired": "Your session has expired. Please log in again.",
+    "networkError": "Network error. Please check your internet connection.",
+    "emailRequired": "Email is required.",
+    "passwordRequired": "Password is required.",
+    "timeout": "Request timed out. Please try again.",
+    "validationFailed": "Validation failed. Please check your input.",
+    "loginFailed": "Login failed. Please try again.",
+    "operationForbidden": "You do not have permission to perform this action."
   },
   "errorTitle": "An error occurred",
   "errorMessage": "The error was reported. Please reload the page and verify that your latest changes were saved.",
