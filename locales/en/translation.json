@@ -55,7 +55,8 @@
     "contact": "Contact",
     "qualifications": "Qualifications",
     "experience": "Experience",
-    "years": "years"
+    "years": "years",
+    "daysLeft": "Days left in subscription: {{daysLeft}}"
   },
   "serviceProviderModal": {
     "editTitle": "Edit Service Provider",
@@ -160,7 +161,10 @@
     "errorPrefix": "Error!",
     "notificationSettings": "Notification Settings",
     "enableNotifications": "Enable Notifications",
-    "testNotificationButton": "Send Test Notification"
+    "testNotificationButton": "Send Test Notification",
+    "daysLeft": "Days left in subscription: {{daysLeft}}",
+    "subscriptionDaysLeftSimple": "Days left in subscription: {{daysLeft}}",
+    "subscriptionExpiredSimple": "Expired"
   },
   "loginPage": {
     "title": "Login",
@@ -179,9 +183,10 @@
     "welcomeTitle": "Welcome to Telobook!",
     "description1": "Your one-stop online booking platform. Discover, book, and manage all in one place. For both service providers and clients.",
     "description2": "Unique Features: Community-Driven Voting System for Desired Features and Tools, AI-powered Functionality.",
-    "registerServiceProvider": "Register as Offering Services",
-    "login": "Login",
-    "registerClient": "Register as Seeking Services"
+    "register": "Register",
+    "registerServiceProvider": "Register as Service Provider",
+    "registerClient": "Register as Client",
+    "login": "Login"
   },
   "homePageLoggedIn": {
     "welcomeBack": "Welcome back{{name}}!",
@@ -257,7 +262,10 @@
     "selectedDayInfo": "Selected Day Info: {{dayType}} - Day {{day}}",
     "lowOccupied": "1%-39% Booked",
     "mediumOccupied": "40%-89% Booked",
-    "fullyOccupied": "90%-100% Booked"
+    "fullyOccupied": "90%-100% Booked",
+    "enterMultiDayMode": "Select multiple days",
+    "exitMultiDayMode": "Exit multi-day selection",
+    "daysSelected": "days selected"
   },
   "menu": {
     "dashboard": "Dashboard",
@@ -411,7 +419,7 @@
     "onlineBookingEnabled": "Online Booking: Enabled",
     "onlineBookingDisabled": "Online Booking: Currently Unavailable",
     "bookNowMessage": "Feel free to book an appointment online!",
-    "contactForBooking": "Please contact us directly to schedule an appointment.",
+    "contactForBooking": "This provider is not accepting online bookings at the moment. Please reach out to them directly to schedule an appointment.",
     "providerNotFound": "The requested service provider was not found.",
     "services": "Services",
     "dateSelection": "Date Selection",
@@ -429,9 +437,26 @@
     "tooManyRequests": "Too many requests. Please wait a moment and try again.",
     "contactServiceProvider": "Unable to complete booking. Please contact your service provider for assistance.",
     "slotNotAvailable": "The selected slot is not available. Please choose a different slot.",
-    "maxBookingsExceeded": "You have reached the maximum number of bookings for this service provider. Please contact your service provider directly."
+    "maxBookingsExceeded": "You have reached the maximum number of bookings for this service provider. Please contact your service provider directly.",
+    "copyAvailableSlots": "Copy available slots",
+    "copied": "Copied!",
+    "copyDays": "Days to copy",
+    "copy": "Copy",
+    "noDateSelected": "Please select at least one date",
+    "noSlotsAvailable": "No available slots found",
+    "infoTooltip": "\"Multi\": Select multiple days and view slots for each day\n\n\"Copy\": Copy all available time slots to clipboard"
   },
   "common": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "select": "Select",
+    "exit": "Exit",
+    "copy": "Copy",
+    "info": "Info",
+    "multiDay": "Multi",
+    "exitMulti": "Exit",
     "cancelButton": "Cancel",
     "yesButton": "Yes",
     "noButton": "No",
@@ -469,9 +494,21 @@
   "ContactSupport": {
     "ContactSupport": "Please contact support",
     "SupportEmail": "Email us at:",
-    "AccessIssue": "You currently do not have access to this part of the application.",
-    "emailSubject": "Request for Access Approval",
-    "emailBody": "Hello Support Team,\n\nI am writing to request access to the Telobook application. My user ID is {{userId}}. Please let me know what steps I need to follow.\n\nThank you,\n{{userName}}"
+    "AccessIssue": "You currently do not have access to this part of the app.",
+    "emailSubject": "Request for production access",
+    "emailBody": "Hi, I would like to request production access. UserId: {{userId}}, Name: {{userName}}",
+    "Start60DayTrial": "Start 60 day subscription",
+    "60DayTrialCongratulations": "Congratulations!",
+    "60DayTrialMessage": "You have been granted access for 60 days free of charge. Enjoy all features!",
+    "AlreadyRequested": "You have already requested access. Please wait for approval.",
+    "RequestSubmittedTitle": "Request Submitted",
+    "RequestSubmittedMessage": "Your request has been submitted. Please wait for approval from the admin before you can access all features.",
+    "SupportEmailRequestButton": "To request access, please use the button above. If you need more help, you can also contact us at:",
+    "NotApprovedMessage": "You don't have access to this page. Please click the button below to start your trial.",
+    "SubscriptionEndedMessage": "Your trial period or subscription has ended. Please request access to continue using the app.",
+    "ContinueSubscriptionButton": "Renew Subscription",
+    "SuccessNotification": "Your subscription or trial has been activated!",
+    "FailedNotification": "Failed to start or extend your trial/subscription."
   },
   "myBookingsPage": {
     "noBookings": "No bookings available. Please make a new booking."
@@ -494,7 +531,9 @@
     "finalInstructions": "An email has been sent to your address. Please check your email and the spam folder for the reset link."
   },
   "servicesSelection": {
-    "quickBooking": "Quick Booking"
+    "quickBooking": "Quick Booking",
+    "noServicesPlaceholder": "No services available. Please add a service to continue.",
+    "addServiceButton": "Add Service"
   },
   "privacyPolicy": {
     "consentModal": {
@@ -782,5 +821,13 @@
   },
   "errorTitle": "An error occurred",
   "errorMessage": "The error was reported. Please reload the page and verify that your latest changes were saved.",
-  "reloadButton": "Reload Page"
+  "reloadButton": "Reload Page",
+  "subscriptionBanner": {
+    "message_today": "Your subscription will expire today. Please take action to avoid interruption.",
+    "message": "Your subscription will expire in {{daysLeft}} day(s). Please take action to avoid interruption.",
+    "contactSupport": "Contact Support",
+    "dismiss": "Dismiss",
+    "emailSubject": "Subscription Expiry Warning",
+    "emailBody": "My subscription is expiring in {{daysLeft}} day(s). Username: {{username}}, UserID: {{userId}}. Please advise."
+  }
 }
