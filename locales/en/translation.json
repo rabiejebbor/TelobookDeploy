@@ -5,6 +5,211 @@
     "description": "The page you're looking for might have been moved or deleted.",
     "homeButton": "Go to Home"
   },
+  "marketing": {
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "subtitle": "Everything you need to know about Telobook",
+      "items": [
+        {
+          "question": "How does Telobook help reduce no-shows?",
+          "answer": "Telobook notifies users about their upcoming appointments at the time of booking. Clients receive all the details they need to remember their appointment, which helps reduce no-shows and last-minute cancellations. You can also set up booking rules to ensure clients confirm their appointments."
+        },
+        {
+          "question": "Can I integrate Telobook with my existing website?",
+          "answer": "Yes! Telobook provides a personalized booking link that you can share on your website, social media, or directly with clients. Clients can use this link to view your services and book appointments without you needing to manually manage the process."
+        },
+        {
+          "question": "Is Telobook suitable for different types of beauty services?",
+          "answer": "Absolutely. Telobook is designed to work for all types of beauty professionals including hair stylists, nail technicians, makeup artists, estheticians, massage therapists, and more. You can customize your services, durations, and pricing to match your specific offerings."
+        },
+        {
+          "question": "How do I manage my availability in Telobook?",
+          "answer": "Telobook makes it easy to set your working hours, breaks, and days off. You can create custom schedules for different days of the week, block out vacation time, and even set buffer times between appointments to ensure you have enough time for preparation and cleanup."
+        },
+        {
+          "question": "When will multi-staff support be available?",
+          "answer": "Multi-staff support is coming soon in our Business plan. This feature will allow salon owners and spa managers to manage multiple service providers, each with their own schedules, services, and client lists, all from a centralized dashboard."
+        }
+      ]
+    },
+    "values": {
+      "title": "Our Values",
+      "subtitle": "The principles that guide everything we do",
+      "items": [
+        {
+          "title": "User-Centric Design",
+          "description": "Every feature we build starts with you, the service professional. We design our platform to be intuitive, efficient, and tailored to your specific needs."
+        },
+        {
+          "title": "Trust & Transparency",
+          "description": "We believe in being transparent about our features, pricing, and roadmap. Your trust is our most valuable asset, and we work hard to maintain it."
+        },
+        {
+          "title": "Continuous Improvement",
+          "description": "We're constantly evolving based on your feedback. Our development is guided by real user experiences and industry best practices."
+        },
+        {
+          "title": "Accessibility For All",
+          "description": "We're committed to making Telobook accessible to service professionals of all backgrounds, skill levels, and business sizes."
+        }
+      ]
+    },
+    "statsBar": {
+      "appointments": "appointments",
+      "activeUsers": "active users",
+      "fewerNoShows": "fewer no-shows"
+    },
+    "hero": {
+      "title": "Streamline Your Service Business with Telobook",
+      "description": "The all-in-one booking solution for independent professionals and service providers. Manage appointments, clients, and services in one place.",
+      "startForFree": "Start for Free",
+      "learnMore": "Learn More",
+      "seePricing": "See Pricing",
+      "onlineBooking": "Online Booking",
+      "clientManagement": "Client Management",
+      "serviceManagement": "Service Management",
+      "calendarView": "Calendar View"
+    },
+    "features": {
+      "title": "Powerful Features for Service Professionals",
+      "description": "Everything you need to streamline your booking process and grow your business.",
+      "available": "Available",
+      "comingSoon": "Coming Soon",
+      "calendar": {
+        "title": "Smart Calendar",
+        "description": "Manage your schedule with an intuitive calendar interface. View daily, weekly, or monthly appointments at a glance."
+      },
+      "clientManagement": {
+        "title": "Client Management",
+        "description": "Keep track of all your clients, their contact information, appointment history, and preferences in one place."
+      },
+      "onlineBooking": {
+        "title": "Online Booking",
+        "description": "Let clients book appointments online 24/7. Reduce phone calls and save time with automated scheduling."
+      },
+      "serviceManagement": {
+        "title": "Service Management",
+        "description": "Create and manage your service offerings, including pricing, duration, and availability."
+      },
+      "bookingNotifications": {
+        "title": "Booking Notifications",
+        "description": "Clients receive booking confirmations and can add appointments to their personal calendars."
+      },
+      "aiBookingAssistant": {
+        "title": "AI Booking Assistant",
+        "description": "Let clients ask about your services, pricing, and availability through a natural chat interface. The AI answers their questions and handles bookings without you needing to explain the same details repeatedly."
+      },
+      "aiBusinessAssistant": {
+        "title": "AI Business Assistant",
+        "description": "Get instant answers about your business, upcoming schedule, and performance metrics just by asking in natural language."
+      },
+      "multiStaff": {
+        "title": "Multi-Staff Support",
+        "description": "Perfect for businesses with multiple service providers. Manage staff schedules and availability."
+      },
+      "analytics": {
+        "title": "Business Analytics",
+        "description": "Gain insights into your business performance with detailed reports on bookings, revenue, and client retention."
+      }
+    },
+    "testimonials": {
+      "title": "What Our Users Say",
+      "description": "Join hundreds of service professionals who trust Telobook.",
+      "testimonial1": {
+        "name": "Maria Rodriguez",
+        "role": "Hair Stylist",
+        "quote": "Telobook has transformed my business. I've reduced no-shows by 95% and my clients love how easy it is to book appointments."
+      },
+      "testimonial2": {
+        "name": "James Wilson",
+        "role": "Barber",
+        "quote": "The calendar interface is so intuitive. I can manage my entire schedule from my phone while on the go."
+      },
+      "testimonial3": {
+        "name": "Sophie Chen",
+        "role": "Makeup Artist",
+        "quote": "The client management feature has been a game-changer. I can keep track of all client preferences and history in one place."
+      }
+    },
+    "whyChooseUs": {
+      "title": "Why Choose Telobook",
+      "description": "Here's why service professionals trust us with their booking needs",
+      "easyToUse": {
+        "title": "Easy to Use",
+        "description": "Intuitive interface designed for busy service professionals. Get started in minutes with no technical knowledge required."
+      },
+      "secureReliable": {
+        "title": "Secure & Reliable",
+        "description": "Your data and your clients' information are protected with industry-standard security practices."
+      },
+      "builtForPros": {
+        "title": "Built for Service Pros",
+        "description": "Created specifically for independent professionals with features tailored to streamline your booking and client management needs."
+      },
+      "growBusiness": {
+        "title": "Grow Your Business",
+        "description": "Attract new clients and retain existing ones with professional online booking and a streamlined appointment system."
+      },
+      "mobileFriendly": {
+        "title": "Mobile Friendly",
+        "description": "Manage your business from anywhere with a fully responsive design that works on all devices."
+      },
+      "constantlyImproving": {
+        "title": "Constantly Improving",
+        "description": "We regularly add new features based on user feedback to ensure Telobook meets your evolving needs."
+      }
+    },
+    "pricing": {
+      "title": "Simple, Transparent Pricing",
+      "description": "Try Telobook free for 30 days, no credit card required",
+      "monthly": "Monthly",
+      "biannual": "6 Months",
+      "annual": "Annual",
+      "save": "Save",
+      "mostPopular": "Most popular",
+      "comingSoon": "COMING SOON",
+      "pro": {
+        "title": "Pro",
+        "description": "For independent service professionals",
+        "buttonText": "Start Free Trial",
+        "trialInfo": "30-day free trial, no credit card required"
+      },
+      "business": {
+        "title": "Business",
+        "description": "For businesses with multiple staff",
+        "buttonText": "Join Waitlist",
+        "trialInfo": "30-day free trial, no credit card required"
+      },
+      "features": {
+        "calendarManagement": "Calendar management",
+        "clientManagement": "Advanced client management",
+        "unlimitedServices": "Unlimited services",
+        "onlineBooking": "Online booking page",
+        "bookingNotifications": "Booking notifications",
+        "analytics": "Business analytics",
+        "bookingRules": "Custom booking rules",
+        "prioritySupport": "Priority support",
+        "staffManagement": "Staff management",
+        "everythingInPro": "Everything in Pro",
+        "advancedAnalytics": "Advanced analytics",
+        "customBranding": "Custom branding",
+        "loyaltyTools": "Client loyalty tools",
+        "apiAccess": "API access",
+        "accountManager": "Dedicated account manager",
+        "aiBookingAssistant": "AI Booking Assistant",
+        "aiBusinessAssistant": "AI Business Assistant"
+      }
+    },
+    "ctaFooter": {
+      "title": "Ready to streamline your service business?",
+      "description": "Join hundreds of service professionals who are saving time and growing their business with Telobook.",
+      "startForFree": "START FOR FREE",
+      "logIn": "LOG IN"
+    },
+    "footer": {
+      "copyright": "© {{year}} Telobook. All rights reserved."
+    }
+  },
   "services": {
     "title": "Services",
     "addNewButton": "Add New Service",
@@ -272,7 +477,7 @@
     "profile": "Profile",
     "serviceProvider": "Service Provider",
     "calendarOverview": "Calendar Overview",
-    "services": "Services",
+    "services": "My Services",
     "clientDashboard": "Client Dashboard",
     "signOut": "Sign Out",
     "home": "Home",
@@ -423,7 +628,9 @@
     "providerNotFound": "The requested service provider was not found.",
     "services": "Services",
     "dateSelection": "Date Selection",
-    "selectService": "Please select a service"
+    "selectService": "Please select a service",
+    "noServicesTitle": "No Services Available",
+    "noServicesMessage": "This service provider hasn't added any services yet. Please contact them directly to book an appointment."
   },
   "timeSlotSelection": {
     "selectTimeSlot": "Select Time Slot",
