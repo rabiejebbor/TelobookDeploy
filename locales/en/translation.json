@@ -68,6 +68,7 @@
       "onlineBooking": "Online Booking",
       "clientManagement": "Client Management",
       "serviceManagement": "Service Management",
+      "aiAssistants": "AI Assistants",
       "calendarView": "Calendar View"
     },
     "features": {
