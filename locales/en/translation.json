@@ -766,7 +766,7 @@
       },
       "subsectionB": {
         "title": "b. Automatically Collected Data",
-        "content": "We automatically collect technical and preference data to enhance our service. This includes your theme color preferences, IP address, language preference, and location data. Such data is collected through our integrated third-party services, including Datadog and OneSignal."
+        "content": "We automatically collect technical and preference data to enhance our service. This includes your IP address, browser type, device information, language preference, and location data. We track page views and interactions to improve our service and user experience. Such data is collected through our integrated third-party services, including Google Analytics, Datadog, and OneSignal."
       }
     },
     "section3": {
@@ -781,7 +781,7 @@
     },
     "section4": {
       "title": "4. Data Sharing and International Transfers",
-      "content": "We share your personal data only with trusted third-party providers (e.g., OneSignal and Datadog) who assist us with our services. We ensure that these third parties use your data solely for the purposes described, and that appropriate safeguards are in place if data is transferred outside the European Economic Area (EEA)."
+      "content": "We share your personal data with trusted third-party providers who assist us with our services. This includes:\n- Google Analytics: We use Google Analytics to analyze website traffic and user behavior. Google Analytics collects data such as your IP address, browser information, and page views. This data is processed in an anonymized form and helps us understand how users interact with our platform.\n- OneSignal: For push notifications and communication.\n- Datadog: For application performance monitoring and error tracking.\n\nWe ensure that these third parties use your data solely for the purposes described, and that appropriate safeguards are in place if data is transferred outside the European Economic Area (EEA)."
     },
     "section5": {
       "title": "5. Data Retention",
@@ -799,7 +799,7 @@
       "title": "8. Updates and Future Notifications",
       "content": "We may update this Privacy Consent Notice from time to time. In the event of significant changes, this popup may reappear to notify you of the updates. Please review this notice regularly to stay informed about how we protect your personal data."
     },
-    "lastUpdated": "Last Updated: 10.02.2025"
+    "lastUpdated": "Last Updated: 29.05.2025"
   },
   "AnalyticsPage": {
     "title": "Analytics",
