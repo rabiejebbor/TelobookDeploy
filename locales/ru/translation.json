@@ -475,10 +475,11 @@
   "menu": {
     "dashboard": "Панель управления",
     "profile": "Профиль",
-    "serviceProvider": "Поставщик услуг",
-    "calendarOverview": "Обзор календаря",
-    "services": "Мои Услуги",
-    "clientDashboard": "Панель клиента",
+    "businessSettings": "Настройки бизнеса",
+    "calendar": "Календарь",
+    "serviceCatalog": "Каталог услуг",
+    "serviceCatalogSubtitle": "Услуги для бронирования",
+    "clientBase": "База клиентов",
     "signOut": "Выйти",
     "home": "Главная",
     "login": "Вход",
@@ -488,7 +489,8 @@
     "darkMode": "Тёмный режим",
     "myBookings": "Мои бронирования",
     "privacyPolicy": "Политика конфиденциальности",
-    "analytics": "Аналитика"
+    "analytics": "Аналитика",
+    "admin": "Панель администратора"
   },
   "languageSwitcher": {
     "label": "Язык",
@@ -577,6 +579,8 @@
     "canceled": "Отменено",
     "confirmed": "Подтверждено",
     "pending": "В ожидании",
+    "attendance": "Посещаемость",
+    "edit": "Редактирование",
     "navigateToToday": "Просмотр дня"
   },
   "addEditBookingModal": {
@@ -679,7 +683,8 @@
     "copy": "Копировать",
     "info": "Инфо",
     "multiDay": "Неск. дней",
-    "exitMulti": "Выход"
+    "exitMulti": "Выход",
+    "copyLink": "Копировать"
   },
   "commonTimeManagement": {
     "invalidWorkHours": "Время начала работы должно быть раньше времени окончания работы.",
@@ -874,7 +879,7 @@
     "allRightsReserved": "Все права защищены"
   },
   "clientHistory": {
-    "title": "История клиента",
+    "title": "История клиентов",
     "overviewTitle": "Обзор истории клиента",
     "totalEarnings": "Общий доход",
     "totalBookings": "Всего бронирований",
@@ -886,7 +891,14 @@
     "averageTip": "Средняя чаевые",
     "attendance": "Посещаемость",
     "noBookings":"Бронирование не доступно",
-    "countOnlyConfirmedBookings": "Считать только подтвержденные бронирования"
+    "countOnlyConfirmedBookings": "Считать только подтвержденные бронирования",
+    "clientBookings": "Бронирования клиента",
+    "allClients": "Все клиенты",
+    "noClients": "Клиенты не найдены",
+    "backToClients": "Назад к клиентам",
+    "blocked": "Заблокирован",
+    "inactive": "Неактивен",
+    "onlineBooking": "Онлайн бронирование"
   },
   "notifications": {
     "permissionDenied": "Пожалуйста, включите уведомления в настройках вашего браузера.",

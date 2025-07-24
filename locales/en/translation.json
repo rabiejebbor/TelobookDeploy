@@ -476,10 +476,11 @@
   "menu": {
     "dashboard": "Dashboard",
     "profile": "Profile",
-    "serviceProvider": "Service Provider",
-    "calendarOverview": "Calendar Overview",
-    "services": "My Services",
-    "clientDashboard": "Client Dashboard",
+    "businessSettings": "Business Settings",
+    "calendar": "Calendar",
+    "serviceCatalog": "Service Catalog",
+    "serviceCatalogSubtitle": "Bookable services",
+    "clientBase": "Client Base",
     "signOut": "Sign Out",
     "home": "Home",
     "login": "Login",
@@ -489,7 +490,8 @@
     "darkMode": "Dark Mode",
     "myBookings": "My Bookings",
     "privacyPolicy": "Privacy Policy",
-    "analytics": "Analytics"
+    "analytics": "Analytics",
+    "admin": "Admin Panel"
   },
   "languageSwitcher": {
     "label": "Language",
@@ -578,6 +580,8 @@
     "canceled": "Canceled",
     "confirmed": "Confirmed",
     "pending": "Pending",
+    "attendance": "Attendance",
+    "edit": "Edit",
     "navigateToToday": "View Day"
   },
   "addEditBookingModal": {
@@ -680,7 +684,8 @@
     "requiredFieldError": "This field is required",
     "noServiceProviderFound": "No service provider found",
     "refreshFailed": "Failed to refresh data. Please try again.",
-    "close": "Close"
+    "close": "Close",
+    "copyLink": "Copy Link"
   },
   "commonTimeManagement": {
     "invalidWorkHours": "Work start time must be before work end time.",
@@ -889,7 +894,14 @@
     "averageTip": "Average Tip",
     "attendance": "Attendance",
     "noBookings":"No bookings found!",
-    "countOnlyConfirmedBookings": "Count Only Confirmed Bookings"
+    "countOnlyConfirmedBookings": "Count Only Confirmed Bookings",
+    "clientBookings": "Client Bookings",
+    "allClients": "All Clients",
+    "noClients": "No clients found",
+    "backToClients": "Back to Clients",
+    "blocked": "Blocked",
+    "inactive": "Inactive",
+    "onlineBooking": "Online Booking"
   },
   "notifications": {
     "permissionDenied": "Please enable notifications in your browser settings.",
