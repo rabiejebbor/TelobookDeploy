@@ -303,6 +303,7 @@
     "bookingTimeFrameHelp": "This sets how far into the future clients can book. For example, '30' means they can book up to 30 days ahead.",
     "maxFutureBookingsHelp": "This sets how many upcoming appointments a single client can have. For example, '2' means a client can't hold more than 2 future bookings at the same time.",
     "sameDayBookingEnabled": "Allow same-day bookings",
+    "multiServiceBookingEnabled": "Allow customers to book multiple services together",
     "clientEmailVerificationEnabled": "Verify client email at booking",
     "minBookingStartInHours": "Min. time before booking (hours)",
     "minBookingStartTime": {
@@ -541,7 +542,7 @@
   },
   "dayDetails": {
     "headerTitle": "Details for {{date}}",
-    "price": "Price: ${{price}}",
+    "price": "Price: {{price}}",
     "client": "Client: {{name}}",
     "clientInfo": "Client Info: {{info}}",
     "editButton": "Edit",
@@ -656,7 +657,15 @@
     "copy": "Copy",
     "noDateSelected": "Please select at least one date",
     "noSlotsAvailable": "No available slots found",
-    "infoTooltip": "\"Multi\": Select multiple days and view slots for each day\n\n\"Copy\": Copy all available time slots to clipboard"
+    "infoTooltip": "\"Multi\": Select multiple days and view slots for each day\n\n\"Copy\": Copy all available time slots to clipboard",
+    "selectedServices": "Selected Services",
+    "selectedService": "Selected Service",
+    "services": "Services",
+    "minutes": "min",
+    "currency": "Kč",
+    "total": "Total",
+    "bookingDate": "Booking date on",
+    "at": "at"
   },
   "common": {
     "save": "Save",
